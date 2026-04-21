@@ -118,7 +118,25 @@ def score_ad(record: dict) -> dict:
             # Still a signal (organic post being boosted) but no extractable username
             signals.append(f"IG boosted post (permalink)")
 
-    # ── Signal 3: Keywords in ad/adset/campaign name (+20 max) ─────────────
+    # ── Signal 3a: "Influence" dans le nom d'adset/campagne — convention de nommage (+40) ──
+    # Si "influence" apparaît dans le NOM D'ADSET ou CAMPAGNE, c'est intentionnel → signal fort.
+    STRONG_WORDS = ["influence", "influencer", "influenceuse", "influenceur"]
+    adset_name_norm = _normalize(record.get("adset_name", ""))
+    campaign_name_norm = _normalize(record.get("campaign_name", ""))
+    strong_hit = None
+    for w in STRONG_WORDS:
+        if w in adset_name_norm:
+            strong_hit = f"'{w}' dans adset: {record.get('adset_name','')}"
+            break
+        if w in campaign_name_norm:
+            strong_hit = f"'{w}' dans campagne: {record.get('campaign_name','')}"
+            break
+    if strong_hit:
+        score += 40
+        signals.append(f"Convention de nommage influence (+40): {strong_hit}")
+        logger.debug(f"  [+40] {strong_hit}")
+
+    # ── Signal 3b: Keywords dans tous les noms (+20 max) ──────────────────
     names_to_check = [
         record.get("ad_name", ""),
         record.get("adset_name", ""),
@@ -130,21 +148,49 @@ def score_ad(record: dict) -> dict:
 
     keyword_hits = []
     for kw in INFLUENCE_KEYWORDS:
+        if strong_hit and _normalize(kw) in adset_name_norm:
+            continue  # already counted above
         if _normalize(kw) in normalized:
             keyword_hits.append(kw)
 
-    # Handle detection in names
     handles_in_name = HANDLE_PATTERN.findall(combined_name)
     if handles_in_name:
         keyword_hits.append(f"handle(s): {', '.join(handles_in_name)}")
-        if not creator_handle and handles_in_name:
+        if not creator_handle:
             creator_handle = handles_in_name[0]
 
     if keyword_hits:
         kw_score = min(20, 5 * len(keyword_hits))
         score += kw_score
-        signals.append(f"Keywords matched (+{kw_score}): {', '.join(keyword_hits[:5])}")
+        signals.append(f"Keywords (+{kw_score}): {', '.join(keyword_hits[:5])}")
         logger.debug(f"  [+{kw_score}] keywords: {keyword_hits[:5]}")
+
+    # ── Signal 3c: Nom de créateur en fin de nom d'ad ou d'adset ──────────
+    # Ex: US_Picta_Web_TOFU_Influence_juliagrace → @juliagrace
+    #     260401_influence_video_amymarch → @amymarch
+    KNOWN_TAGS = {"tofu", "mofu", "bofu", "broad", "retargeting", "prospecting",
+                  "static", "video", "gif", "reel", "story", "web", "app",
+                  "android", "ios", "fr", "us", "uk", "de", "eu", "cvs",
+                  "influence", "influencer", "influenceuse", "influenceur",
+                  "ugc", "collab", "partner", "prints", "woodprint", "woodwall",
+                  "boostresolution", "hook", "screenshot", "notegoogleplay"}
+
+    def _extract_creator(name):
+        parts = name.replace("-", "_").split("_")
+        for part in reversed(parts):
+            p = part.lower().strip()
+            if len(p) >= 3 and p.isalpha() and p not in KNOWN_TAGS:
+                return p
+        return None
+
+    if not creator_handle:
+        for field in ["ad_name", "adset_name"]:
+            found = _extract_creator(record.get(field, ""))
+            if found:
+                creator_handle = f"@{found}"
+                signals.append(f"Creator name in {field}: {found}")
+                logger.debug(f"  Creator from {field}: {found}")
+                break
 
     # ── Signal 4: Creator format patterns (+10) ─────────────────────────────
     format_hits = [f for f in FORMAT_KEYWORDS if f in normalized]

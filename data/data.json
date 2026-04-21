@@ -158,8 +158,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in adset_name: photointerests"
+    ],
+    "creator_handle": "@photointerests",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -322,8 +324,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in adset_name: photointerests"
+    ],
+    "creator_handle": "@photointerests",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -486,8 +490,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in adset_name: photointerests"
+    ],
+    "creator_handle": "@photointerests",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -650,8 +656,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in adset_name: photointerests"
+    ],
+    "creator_handle": "@photointerests",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -814,8 +822,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in adset_name: photointerests"
+    ],
+    "creator_handle": "@photointerests",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -978,8 +988,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in adset_name: photointerests"
+    ],
+    "creator_handle": "@photointerests",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -1142,8 +1154,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in adset_name: photointerests"
+    ],
+    "creator_handle": "@photointerests",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -1284,8 +1298,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in adset_name: picta"
+    ],
+    "creator_handle": "@picta",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -1426,8 +1442,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in adset_name: picta"
+    ],
+    "creator_handle": "@picta",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -1568,8 +1586,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in adset_name: picta"
+    ],
+    "creator_handle": "@picta",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -1710,8 +1730,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in adset_name: picta"
+    ],
+    "creator_handle": "@picta",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -1852,8 +1874,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in adset_name: picta"
+    ],
+    "creator_handle": "@picta",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -1994,8 +2018,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in adset_name: picta"
+    ],
+    "creator_handle": "@picta",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -2136,8 +2162,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in adset_name: picta"
+    ],
+    "creator_handle": "@picta",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -2207,8 +2235,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in adset_name: multi"
+    ],
+    "creator_handle": "@multi",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -2278,8 +2308,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in adset_name: multi"
+    ],
+    "creator_handle": "@multi",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -2349,8 +2381,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in adset_name: multi"
+    ],
+    "creator_handle": "@multi",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -2420,8 +2454,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in adset_name: multi"
+    ],
+    "creator_handle": "@multi",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -2491,8 +2527,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in adset_name: multi"
+    ],
+    "creator_handle": "@multi",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -2562,8 +2600,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in adset_name: multi"
+    ],
+    "creator_handle": "@multi",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -2633,8 +2673,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in adset_name: multi"
+    ],
+    "creator_handle": "@multi",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -2704,8 +2746,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: photobook"
+    ],
+    "creator_handle": "@photobook",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -2775,8 +2819,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: photobook"
+    ],
+    "creator_handle": "@photobook",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -2846,8 +2892,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: photobook"
+    ],
+    "creator_handle": "@photobook",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -2917,8 +2965,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: photobook"
+    ],
+    "creator_handle": "@photobook",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -2988,8 +3038,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: photobook"
+    ],
+    "creator_handle": "@photobook",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -3123,8 +3175,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in adset_name: picta"
+    ],
+    "creator_handle": "@picta",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -3258,8 +3312,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: phonewall"
+    ],
+    "creator_handle": "@phonewall",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -3393,8 +3449,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: calendar"
+    ],
+    "creator_handle": "@calendar",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -3528,8 +3586,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: photobookfamily"
+    ],
+    "creator_handle": "@photobookfamily",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -3663,8 +3723,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: photobookwrapped"
+    ],
+    "creator_handle": "@photobookwrapped",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -3798,8 +3860,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: printkids"
+    ],
+    "creator_handle": "@printkids",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -3869,8 +3933,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in adset_name: testcapping"
+    ],
+    "creator_handle": "@testcapping",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -3940,8 +4006,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in adset_name: testcapping"
+    ],
+    "creator_handle": "@testcapping",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -4011,8 +4079,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in adset_name: testcapping"
+    ],
+    "creator_handle": "@testcapping",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -4082,8 +4152,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in adset_name: testcapping"
+    ],
+    "creator_handle": "@testcapping",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -4153,8 +4225,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in adset_name: testcapping"
+    ],
+    "creator_handle": "@testcapping",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -4224,8 +4298,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in adset_name: testcapping"
+    ],
+    "creator_handle": "@testcapping",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -4295,8 +4371,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in adset_name: testcapping"
+    ],
+    "creator_handle": "@testcapping",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -4366,8 +4444,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in adset_name: multi"
+    ],
+    "creator_handle": "@multi",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -4437,8 +4517,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in adset_name: multi"
+    ],
+    "creator_handle": "@multi",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -4508,8 +4590,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in adset_name: multi"
+    ],
+    "creator_handle": "@multi",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -4579,8 +4663,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: cards"
+    ],
+    "creator_handle": "@cards",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -4650,8 +4736,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: pets"
+    ],
+    "creator_handle": "@pets",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -4721,8 +4809,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: skylar"
+    ],
+    "creator_handle": "@skylar",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -4792,8 +4882,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: saintval"
+    ],
+    "creator_handle": "@saintval",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -4863,8 +4955,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: saintval"
+    ],
+    "creator_handle": "@saintval",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -4934,8 +5028,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: saintval"
+    ],
+    "creator_handle": "@saintval",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -5005,8 +5101,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: saintval"
+    ],
+    "creator_handle": "@saintval",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -5140,8 +5238,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in adset_name: picta"
+    ],
+    "creator_handle": "@picta",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -5275,8 +5375,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: retroprints"
+    ],
+    "creator_handle": "@retroprints",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -5410,8 +5512,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in adset_name: picta"
+    ],
+    "creator_handle": "@picta",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -5545,8 +5649,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: kerra"
+    ],
+    "creator_handle": "@kerra",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -5709,8 +5815,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in adset_name: photointerests"
+    ],
+    "creator_handle": "@photointerests",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -5873,8 +5981,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: saintval"
+    ],
+    "creator_handle": "@saintval",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -6037,8 +6147,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: saintval"
+    ],
+    "creator_handle": "@saintval",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -6179,8 +6291,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: saintval"
+    ],
+    "creator_handle": "@saintval",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -6321,8 +6435,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in adset_name: picta"
+    ],
+    "creator_handle": "@picta",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -6392,8 +6508,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: motion"
+    ],
+    "creator_handle": "@motion",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -6527,8 +6645,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: pets"
+    ],
+    "creator_handle": "@pets",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -6662,8 +6782,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in adset_name: picta"
+    ],
+    "creator_handle": "@picta",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -6797,8 +6919,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: motion"
+    ],
+    "creator_handle": "@motion",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -6932,8 +7056,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: skylar"
+    ],
+    "creator_handle": "@skylar",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -7096,8 +7222,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: bundle"
+    ],
+    "creator_handle": "@bundle",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -7167,8 +7295,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: photobook"
+    ],
+    "creator_handle": "@photobook",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -7238,8 +7368,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: bundle"
+    ],
+    "creator_handle": "@bundle",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -7373,8 +7505,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: photobook"
+    ],
+    "creator_handle": "@photobook",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -7508,8 +7642,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: bundle"
+    ],
+    "creator_handle": "@bundle",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -7579,8 +7715,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: copy"
+    ],
+    "creator_handle": "@copy",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -7650,8 +7788,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: copy"
+    ],
+    "creator_handle": "@copy",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -7814,8 +7954,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: photobook"
+    ],
+    "creator_handle": "@photobook",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -7978,8 +8120,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: motion"
+    ],
+    "creator_handle": "@motion",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -8142,8 +8286,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: skylar"
+    ],
+    "creator_handle": "@skylar",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -8306,8 +8452,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: retroprints"
+    ],
+    "creator_handle": "@retroprints",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -8470,8 +8618,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: saintval"
+    ],
+    "creator_handle": "@saintval",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -8634,8 +8784,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: saintval"
+    ],
+    "creator_handle": "@saintval",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -8798,8 +8950,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: saintval"
+    ],
+    "creator_handle": "@saintval",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -8907,8 +9061,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: shoppingfeed"
+    ],
+    "creator_handle": "@shoppingfeed",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -9049,8 +9205,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: motion"
+    ],
+    "creator_handle": "@motion",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -9191,8 +9349,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: skylar"
+    ],
+    "creator_handle": "@skylar",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -9333,8 +9493,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: saintval"
+    ],
+    "creator_handle": "@saintval",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -9475,8 +9637,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: saintval"
+    ],
+    "creator_handle": "@saintval",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -9617,8 +9781,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: saintval"
+    ],
+    "creator_handle": "@saintval",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -9759,8 +9925,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: saintval"
+    ],
+    "creator_handle": "@saintval",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -9901,8 +10069,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: saintval"
+    ],
+    "creator_handle": "@saintval",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -10043,8 +10213,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: saintval"
+    ],
+    "creator_handle": "@saintval",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -10185,8 +10357,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: photobook"
+    ],
+    "creator_handle": "@photobook",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -10327,8 +10501,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: retroprints"
+    ],
+    "creator_handle": "@retroprints",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -10469,8 +10645,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: bundle"
+    ],
+    "creator_handle": "@bundle",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -10540,8 +10718,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: saintval"
+    ],
+    "creator_handle": "@saintval",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -10611,8 +10791,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: saintval"
+    ],
+    "creator_handle": "@saintval",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -10676,14 +10858,15 @@
       }
     },
     "account_id": "308142134",
-    "influence_score": 10,
-    "is_influence": false,
+    "influence_score": 40,
+    "is_influence": true,
     "signals": [
-      "Keywords matched (+10): influ, influence"
+      "Convention de nommage influence (+40): 'influence' dans adset: US_Picta_Web_TOFU_Influence",
+      "Creator name in ad_name: yvonnetnez"
     ],
-    "creator_handle": null,
+    "creator_handle": "@yvonnetnez",
     "creator_ig_id": null,
-    "confidence_label": "Non-influence"
+    "confidence_label": "Moyenne"
   },
   {
     "ad_id": "52569178783817",
@@ -10794,8 +10977,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: poster"
+    ],
+    "creator_handle": "@poster",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -10908,8 +11093,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: copy"
+    ],
+    "creator_handle": "@copy",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -11022,8 +11209,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: copy"
+    ],
+    "creator_handle": "@copy",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -11136,8 +11325,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: copy"
+    ],
+    "creator_handle": "@copy",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -11250,8 +11441,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: copy"
+    ],
+    "creator_handle": "@copy",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -11364,8 +11557,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: copy"
+    ],
+    "creator_handle": "@copy",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -11478,8 +11673,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: maggi"
+    ],
+    "creator_handle": "@maggi",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -11592,8 +11789,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: copy"
+    ],
+    "creator_handle": "@copy",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -11706,8 +11905,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: copy"
+    ],
+    "creator_handle": "@copy",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -11820,8 +12021,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: copy"
+    ],
+    "creator_handle": "@copy",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -11934,8 +12137,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: copy"
+    ],
+    "creator_handle": "@copy",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -12048,8 +12253,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: copy"
+    ],
+    "creator_handle": "@copy",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -12162,8 +12369,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: copy"
+    ],
+    "creator_handle": "@copy",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -12276,8 +12485,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: copy"
+    ],
+    "creator_handle": "@copy",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -12440,8 +12651,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: wallart"
+    ],
+    "creator_handle": "@wallart",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -12604,8 +12817,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: evergreenfeb"
+    ],
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -12768,8 +12983,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: evergreenfeb"
+    ],
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -12932,8 +13149,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: evergreenfeb"
+    ],
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -13096,8 +13315,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: maggi"
+    ],
+    "creator_handle": "@maggi",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -13260,8 +13481,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: evergreenfeb"
+    ],
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -13424,8 +13647,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: evergreenfeb"
+    ],
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -13588,8 +13813,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: evergreenfeb"
+    ],
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -13752,8 +13979,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: evergreenfeb"
+    ],
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -13916,8 +14145,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: angeleen"
+    ],
+    "creator_handle": "@angeleen",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -14080,8 +14311,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: evergreenfeb"
+    ],
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -14244,8 +14477,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: poster"
+    ],
+    "creator_handle": "@poster",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -14408,8 +14643,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: photobook"
+    ],
+    "creator_handle": "@photobook",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -14572,8 +14809,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: photobook"
+    ],
+    "creator_handle": "@photobook",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -14643,8 +14882,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: evergreenfeb"
+    ],
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -14714,8 +14955,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: evergreenfeb"
+    ],
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -14785,8 +15028,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: evergreenfeb"
+    ],
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -14856,8 +15101,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: evergreenfeb"
+    ],
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -14927,8 +15174,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: evergreenfeb"
+    ],
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -14998,8 +15247,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: angeleen"
+    ],
+    "creator_handle": "@angeleen",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -15069,8 +15320,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: wallart"
+    ],
+    "creator_handle": "@wallart",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -15140,8 +15393,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: evergreenfeb"
+    ],
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -15211,8 +15466,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: evergreenfeb"
+    ],
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -15282,8 +15539,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: photobook"
+    ],
+    "creator_handle": "@photobook",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -15353,8 +15612,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: evergreenfeb"
+    ],
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -15424,8 +15685,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: photobook"
+    ],
+    "creator_handle": "@photobook",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -15495,8 +15758,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: evergreenfeb"
+    ],
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -15566,8 +15831,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: copy"
+    ],
+    "creator_handle": "@copy",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -15637,8 +15904,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: evergreenfeb"
+    ],
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -15708,8 +15977,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: poster"
+    ],
+    "creator_handle": "@poster",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -15779,8 +16050,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: evergreenfeb"
+    ],
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -15850,8 +16123,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: evergreenfeb"
+    ],
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -15921,8 +16196,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: evergreenfeb"
+    ],
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -15998,8 +16275,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: evergreenfeb"
+    ],
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -16075,8 +16354,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: evergreenfeb"
+    ],
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -16152,8 +16433,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: evergreenfeb"
+    ],
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -16217,14 +16500,15 @@
       }
     },
     "account_id": "308142134",
-    "influence_score": 10,
-    "is_influence": false,
+    "influence_score": 40,
+    "is_influence": true,
     "signals": [
-      "Keywords matched (+10): influ, influence"
+      "Convention de nommage influence (+40): 'influence' dans adset: US_Picta_Web_TOFU_Influence",
+      "Creator name in ad_name: alisonepp"
     ],
-    "creator_handle": null,
+    "creator_handle": "@alisonepp",
     "creator_ig_id": null,
-    "confidence_label": "Non-influence"
+    "confidence_label": "Moyenne"
   },
   {
     "ad_id": "52581070688817",
@@ -16299,9 +16583,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): ugc"
+      "Keywords (+5): ugc",
+      "Creator name in ad_name: maggi"
     ],
-    "creator_handle": null,
+    "creator_handle": "@maggi",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -16378,9 +16663,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): ugc"
+      "Keywords (+5): ugc",
+      "Creator name in ad_name: skylar"
     ],
-    "creator_handle": null,
+    "creator_handle": "@skylar",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -16457,9 +16743,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): ugc"
+      "Keywords (+5): ugc",
+      "Creator name in ad_name: evergreenmarch"
     ],
-    "creator_handle": null,
+    "creator_handle": "@evergreenmarch",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -16623,9 +16910,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): ugc"
+      "Keywords (+5): ugc",
+      "Creator name in ad_name: evergreenmarch"
     ],
-    "creator_handle": null,
+    "creator_handle": "@evergreenmarch",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -16788,8 +17076,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: printswalls"
+    ],
+    "creator_handle": "@printswalls",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -16952,8 +17242,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: evergreenfeb"
+    ],
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -17117,9 +17409,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): ugc"
+      "Keywords (+5): ugc",
+      "Creator name in ad_name: maggi"
     ],
-    "creator_handle": null,
+    "creator_handle": "@maggi",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -17282,8 +17575,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: pbvste"
+    ],
+    "creator_handle": "@pbvste",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -17446,8 +17741,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: evergreenfeb"
+    ],
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -17611,9 +17908,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): ugc"
+      "Keywords (+5): ugc",
+      "Creator name in ad_name: skylar"
     ],
-    "creator_handle": null,
+    "creator_handle": "@skylar",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -17776,8 +18074,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: evergreenfeb"
+    ],
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -17940,8 +18240,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: coffetable"
+    ],
+    "creator_handle": "@coffetable",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -18012,9 +18314,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): ugc"
+      "Keywords (+5): ugc",
+      "Creator name in ad_name: evergreenmarch"
     ],
-    "creator_handle": null,
+    "creator_handle": "@evergreenmarch",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -18084,8 +18387,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: evergreenfeb"
+    ],
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -18156,9 +18461,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): ugc"
+      "Keywords (+5): ugc",
+      "Creator name in ad_name: maggi"
     ],
-    "creator_handle": null,
+    "creator_handle": "@maggi",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -18228,8 +18534,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: coffetable"
+    ],
+    "creator_handle": "@coffetable",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -18299,8 +18607,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: printswalls"
+    ],
+    "creator_handle": "@printswalls",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -18370,8 +18680,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: evergreenfeb"
+    ],
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -18441,8 +18753,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: pbvstel"
+    ],
+    "creator_handle": "@pbvstel",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -18513,9 +18827,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): ugc"
+      "Keywords (+5): ugc",
+      "Creator name in ad_name: skylar"
     ],
-    "creator_handle": null,
+    "creator_handle": "@skylar",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -18585,8 +18900,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: evergreenfeb"
+    ],
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -18699,8 +19016,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: pbvstel"
+    ],
+    "creator_handle": "@pbvstel",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -18813,8 +19132,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: evergreenfeb"
+    ],
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -18927,8 +19248,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: printswalls"
+    ],
+    "creator_handle": "@printswalls",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -19041,8 +19364,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: coffetable"
+    ],
+    "creator_handle": "@coffetable",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -19155,8 +19480,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: evergreenfeb"
+    ],
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -19270,9 +19597,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): ugc"
+      "Keywords (+5): ugc",
+      "Creator name in ad_name: maggi"
     ],
-    "creator_handle": null,
+    "creator_handle": "@maggi",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -19385,8 +19713,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: evergreenfeb"
+    ],
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -19500,9 +19830,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): ugc"
+      "Keywords (+5): ugc",
+      "Creator name in ad_name: skylar"
     ],
-    "creator_handle": null,
+    "creator_handle": "@skylar",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -19616,9 +19947,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): ugc"
+      "Keywords (+5): ugc",
+      "Creator name in ad_name: evergreenmarch"
     ],
-    "creator_handle": null,
+    "creator_handle": "@evergreenmarch",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -19726,14 +20058,15 @@
       ]
     },
     "account_id": "308142134",
-    "influence_score": 10,
-    "is_influence": false,
+    "influence_score": 40,
+    "is_influence": true,
     "signals": [
-      "Keywords matched (+10): influ, influence"
+      "Convention de nommage influence (+40): 'influence' dans adset: US_Picta_Web_TOFU_Influence_juliagrace",
+      "Creator name in adset_name: juliagrace"
     ],
-    "creator_handle": null,
+    "creator_handle": "@juliagrace",
     "creator_ig_id": null,
-    "confidence_label": "Non-influence"
+    "confidence_label": "Moyenne"
   },
   {
     "ad_id": "52596491542017",
@@ -19801,14 +20134,15 @@
       }
     },
     "account_id": "308142134",
-    "influence_score": 10,
-    "is_influence": false,
+    "influence_score": 40,
+    "is_influence": true,
     "signals": [
-      "Keywords matched (+10): influ, influence"
+      "Convention de nommage influence (+40): 'influence' dans adset: US_Picta_Web_TOFU_Influence_amy",
+      "Creator name in ad_name: amymarch"
     ],
-    "creator_handle": null,
+    "creator_handle": "@amymarch",
     "creator_ig_id": null,
-    "confidence_label": "Non-influence"
+    "confidence_label": "Moyenne"
   },
   {
     "ad_id": "52596495496617",
@@ -19882,8 +20216,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: evergreenapril"
+    ],
+    "creator_handle": "@evergreenapril",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -19960,9 +20296,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): feat"
+      "Keywords (+5): feat",
+      "Creator name in ad_name: crop"
     ],
-    "creator_handle": null,
+    "creator_handle": "@crop",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -20039,9 +20376,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): feat"
+      "Keywords (+5): feat",
+      "Creator name in ad_name: couple"
     ],
-    "creator_handle": null,
+    "creator_handle": "@couple",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -20118,9 +20456,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): feat"
+      "Keywords (+5): feat",
+      "Creator name in ad_name: crop"
     ],
-    "creator_handle": null,
+    "creator_handle": "@crop",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -20197,9 +20536,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): feat"
+      "Keywords (+5): feat",
+      "Creator name in ad_name: family"
     ],
-    "creator_handle": null,
+    "creator_handle": "@family",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -20276,9 +20616,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): feat"
+      "Keywords (+5): feat",
+      "Creator name in ad_name: girl"
     ],
-    "creator_handle": null,
+    "creator_handle": "@girl",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -20355,9 +20696,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): feat"
+      "Keywords (+5): feat",
+      "Creator name in ad_name: family"
     ],
-    "creator_handle": null,
+    "creator_handle": "@family",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -20434,9 +20776,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): feat"
+      "Keywords (+5): feat",
+      "Creator name in ad_name: couple"
     ],
-    "creator_handle": null,
+    "creator_handle": "@couple",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -20513,9 +20856,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): feat"
+      "Keywords (+5): feat",
+      "Creator name in ad_name: blurred"
     ],
-    "creator_handle": null,
+    "creator_handle": "@blurred",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -20592,9 +20936,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): feat"
+      "Keywords (+5): feat",
+      "Creator name in ad_name: blurred"
     ],
-    "creator_handle": null,
+    "creator_handle": "@blurred",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -20671,9 +21016,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): feat"
+      "Keywords (+5): feat",
+      "Creator name in ad_name: blurred"
     ],
-    "creator_handle": null,
+    "creator_handle": "@blurred",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -20750,9 +21096,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): feat"
+      "Keywords (+5): feat",
+      "Creator name in ad_name: blurred"
     ],
-    "creator_handle": null,
+    "creator_handle": "@blurred",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -20828,8 +21175,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: evergreenfeb"
+    ],
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -20905,8 +21254,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: evergreenfeb"
+    ],
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -20982,8 +21333,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: evergreenfeb"
+    ],
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -21060,9 +21413,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): ugc"
+      "Keywords (+5): ugc",
+      "Creator name in ad_name: evergreenfeb"
     ],
-    "creator_handle": null,
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -21139,9 +21493,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): ugc"
+      "Keywords (+5): ugc",
+      "Creator name in ad_name: evergreenfeb"
     ],
-    "creator_handle": null,
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -21218,9 +21573,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): ugc"
+      "Keywords (+5): ugc",
+      "Creator name in ad_name: evergreenfeb"
     ],
-    "creator_handle": null,
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -21297,9 +21653,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): feat"
+      "Keywords (+5): feat",
+      "Creator name in ad_name: couple"
     ],
-    "creator_handle": null,
+    "creator_handle": "@couple",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -21376,9 +21733,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): feat"
+      "Keywords (+5): feat",
+      "Creator name in ad_name: crop"
     ],
-    "creator_handle": null,
+    "creator_handle": "@crop",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -21455,9 +21813,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): feat"
+      "Keywords (+5): feat",
+      "Creator name in ad_name: crop"
     ],
-    "creator_handle": null,
+    "creator_handle": "@crop",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -21533,8 +21892,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: evergreenapril"
+    ],
+    "creator_handle": "@evergreenapril",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -21611,9 +21972,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): feat"
+      "Keywords (+5): feat",
+      "Creator name in ad_name: family"
     ],
-    "creator_handle": null,
+    "creator_handle": "@family",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -21721,14 +22083,15 @@
       ]
     },
     "account_id": "308142134",
-    "influence_score": 10,
-    "is_influence": false,
+    "influence_score": 40,
+    "is_influence": true,
     "signals": [
-      "Keywords matched (+10): influ, influence"
+      "Convention de nommage influence (+40): 'influence' dans adset: US_Picta_Web_TOFU_Influence_juliagrace",
+      "Creator name in adset_name: juliagrace"
     ],
-    "creator_handle": null,
+    "creator_handle": "@juliagrace",
     "creator_ig_id": null,
-    "confidence_label": "Non-influence"
+    "confidence_label": "Moyenne"
   },
   {
     "ad_id": "52599808799217",
@@ -21803,9 +22166,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): ugc"
+      "Keywords (+5): ugc",
+      "Creator name in ad_name: maggi"
     ],
-    "creator_handle": null,
+    "creator_handle": "@maggi",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -21882,9 +22246,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): ugc"
+      "Keywords (+5): ugc",
+      "Creator name in ad_name: skylar"
     ],
-    "creator_handle": null,
+    "creator_handle": "@skylar",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -21961,9 +22326,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): ugc"
+      "Keywords (+5): ugc",
+      "Creator name in ad_name: evergreenmarch"
     ],
-    "creator_handle": null,
+    "creator_handle": "@evergreenmarch",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -22040,9 +22406,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): feat"
+      "Keywords (+5): feat",
+      "Creator name in ad_name: blurred"
     ],
-    "creator_handle": null,
+    "creator_handle": "@blurred",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -22119,9 +22486,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): feat"
+      "Keywords (+5): feat",
+      "Creator name in ad_name: blurred"
     ],
-    "creator_handle": null,
+    "creator_handle": "@blurred",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -22198,9 +22566,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): feat"
+      "Keywords (+5): feat",
+      "Creator name in ad_name: blurred"
     ],
-    "creator_handle": null,
+    "creator_handle": "@blurred",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -22277,9 +22646,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): feat"
+      "Keywords (+5): feat",
+      "Creator name in ad_name: blurred"
     ],
-    "creator_handle": null,
+    "creator_handle": "@blurred",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -22356,9 +22726,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): feat"
+      "Keywords (+5): feat",
+      "Creator name in ad_name: family"
     ],
-    "creator_handle": null,
+    "creator_handle": "@family",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -22435,9 +22806,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): feat"
+      "Keywords (+5): feat",
+      "Creator name in ad_name: evergreenfeb"
     ],
-    "creator_handle": null,
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -22514,9 +22886,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): feat"
+      "Keywords (+5): feat",
+      "Creator name in ad_name: evergreenfeb"
     ],
-    "creator_handle": null,
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -22593,9 +22966,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): feat"
+      "Keywords (+5): feat",
+      "Creator name in ad_name: camerarollpb"
     ],
-    "creator_handle": null,
+    "creator_handle": "@camerarollpb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -22672,9 +23046,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): feat"
+      "Keywords (+5): feat",
+      "Creator name in ad_name: evergreenfeb"
     ],
-    "creator_handle": null,
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -22751,9 +23126,10 @@
     "influence_score": 5,
     "is_influence": false,
     "signals": [
-      "Keywords matched (+5): feat"
+      "Keywords (+5): feat",
+      "Creator name in ad_name: evergreenfeb"
     ],
-    "creator_handle": null,
+    "creator_handle": "@evergreenfeb",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -22823,8 +23199,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: photobook"
+    ],
+    "creator_handle": "@photobook",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -22894,8 +23272,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: photobook"
+    ],
+    "creator_handle": "@photobook",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -22965,8 +23345,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: photobook"
+    ],
+    "creator_handle": "@photobook",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -23036,8 +23418,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: photobook"
+    ],
+    "creator_handle": "@photobook",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -23107,8 +23491,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: photobook"
+    ],
+    "creator_handle": "@photobook",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -23170,8 +23556,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: photobook"
+    ],
+    "creator_handle": "@photobook",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -23233,8 +23621,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: photobook"
+    ],
+    "creator_handle": "@photobook",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -23296,8 +23686,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: photobook"
+    ],
+    "creator_handle": "@photobook",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -23359,8 +23751,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: photobook"
+    ],
+    "creator_handle": "@photobook",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },
@@ -23422,8 +23816,10 @@
     "account_id": "308142134",
     "influence_score": 0,
     "is_influence": false,
-    "signals": [],
-    "creator_handle": null,
+    "signals": [
+      "Creator name in ad_name: photobook"
+    ],
+    "creator_handle": "@photobook",
     "creator_ig_id": null,
     "confidence_label": "Non-influence"
   },

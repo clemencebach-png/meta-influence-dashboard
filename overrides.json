@@ -1,0 +1,4 @@
+{
+  "_comment": "Manual overrides for influence classification. Key = ad_id, value = true/false",
+  "overrides": {}
+}

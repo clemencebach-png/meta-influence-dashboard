@@ -7,19 +7,19 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-01-05T07:24:17-0800",
     "adset_end": "",
-    "impressions": 2911,
-    "reach": 2397,
-    "clicks": 19,
-    "spend": 17.24,
-    "ctr": 0.652697,
-    "cpm": 5.922363,
-    "purchases": 3.0,
-    "revenue": 75.13,
-    "roas": 4.357889,
+    "impressions": 4,
+    "reach": 4,
+    "clicks": 0,
+    "spend": 0.04,
+    "ctr": 0.0,
+    "cpm": 10.0,
+    "purchases": 1.0,
+    "revenue": 4.99,
+    "roas": 124.75,
     "video_avg_watch": 0.0,
     "creative_id": "",
     "creative_name": "",
@@ -80,91 +80,18 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-01-05T07:24:17-0800",
     "adset_end": "",
-    "impressions": 3648,
-    "reach": 2888,
-    "clicks": 46,
-    "spend": 21.59,
-    "ctr": 1.260965,
-    "cpm": 5.918311,
-    "purchases": 4.0,
-    "revenue": 52.06,
-    "roas": 2.411302,
-    "video_avg_watch": 2.0,
-    "creative_id": "",
-    "creative_name": "",
-    "thumbnail_url": "",
-    "instagram_permalink": "",
-    "instagram_actor_id": "",
-    "source_instagram_media_id": "",
-    "effective_instagram_media_id": "",
-    "branded_content_sponsor_page_id": "",
-    "object_story_spec": {},
-    "targeting": {
-      "age_max": 65,
-      "age_min": 18,
-      "age_range": [
-        18,
-        64
-      ],
-      "geo_locations": {
-        "countries": [
-          "US"
-        ],
-        "location_types": [
-          "home",
-          "recent"
-        ]
-      },
-      "locales": [
-        24,
-        6
-      ],
-      "brand_safety_content_filter_levels": [
-        "FACEBOOK_RELAXED",
-        "AN_RELAXED"
-      ],
-      "targeting_automation": {
-        "advantage_audience": 0,
-        "individual_setting": {
-          "age": 1,
-          "gender": 1
-        }
-      }
-    },
-    "account_id": "308142134",
-    "influence_score": 0,
-    "is_influence": false,
-    "signals": [
-      "Creator name in adset_name: multi"
-    ],
-    "creator_handle": "@multi",
-    "creator_ig_id": null,
-    "confidence_label": "Non-influence"
-  },
-  {
-    "ad_id": "52562141026617",
-    "ad_name": "260128_static_TOFU_Poster2",
-    "adset_id": "52552876398217",
-    "adset_name": "US_Picta_Web_TOFU_Broad_Multi",
-    "campaign_id": "52552876398017",
-    "campaign_name": "PictaUS_Web_TOFU_Q125",
-    "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
-    "adset_start": "2026-01-05T07:24:17-0800",
-    "adset_end": "",
-    "impressions": 669,
-    "reach": 593,
-    "clicks": 5,
-    "spend": 3.31,
-    "ctr": 0.747384,
-    "cpm": 4.947683,
-    "purchases": 0.0,
-    "revenue": 0.0,
+    "impressions": 0,
+    "reach": 0,
+    "clicks": 0,
+    "spend": 0.0,
+    "ctr": 0.0,
+    "cpm": 0.0,
+    "purchases": 2.0,
+    "revenue": 18.4,
     "roas": 0.0,
     "video_avg_watch": 0.0,
     "creative_id": "",
@@ -226,19 +153,19 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-01-05T07:24:17-0800",
     "adset_end": "",
-    "impressions": 3585,
-    "reach": 2729,
-    "clicks": 29,
-    "spend": 24.46,
-    "ctr": 0.808926,
-    "cpm": 6.822873,
-    "purchases": 9.0,
-    "revenue": 91.45,
-    "roas": 3.738757,
+    "impressions": 7,
+    "reach": 7,
+    "clicks": 0,
+    "spend": 0.05,
+    "ctr": 0.0,
+    "cpm": 7.142857,
+    "purchases": 1.0,
+    "revenue": 12.44,
+    "roas": 248.8,
     "video_avg_watch": 0.0,
     "creative_id": "",
     "creative_name": "",
@@ -299,19 +226,19 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-01-05T07:24:17-0800",
     "adset_end": "",
-    "impressions": 10079,
-    "reach": 6939,
-    "clicks": 132,
-    "spend": 93.06,
-    "ctr": 1.309654,
-    "cpm": 9.233059,
-    "purchases": 23.0,
-    "revenue": 380.54,
-    "roas": 4.08919,
+    "impressions": 9,
+    "reach": 8,
+    "clicks": 0,
+    "spend": 0.07,
+    "ctr": 0.0,
+    "cpm": 7.777778,
+    "purchases": 10.0,
+    "revenue": 158.22,
+    "roas": 2260.285714,
     "video_avg_watch": 3.0,
     "creative_id": "",
     "creative_name": "",
@@ -372,19 +299,19 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-01-05T07:27:10-0800",
     "adset_end": "",
-    "impressions": 1938,
-    "reach": 1615,
-    "clicks": 11,
-    "spend": 14.23,
-    "ctr": 0.567595,
-    "cpm": 7.342621,
-    "purchases": 3.0,
-    "revenue": 38.99,
-    "roas": 2.739986,
+    "impressions": 1,
+    "reach": 1,
+    "clicks": 0,
+    "spend": 0.0,
+    "ctr": 0.0,
+    "cpm": 0.0,
+    "purchases": 0.0,
+    "revenue": 0.0,
+    "roas": 0.0,
     "video_avg_watch": 0.0,
     "creative_id": "",
     "creative_name": "",
@@ -445,16 +372,16 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-01-05T07:27:10-0800",
     "adset_end": "",
-    "impressions": 1058,
-    "reach": 828,
-    "clicks": 22,
-    "spend": 8.59,
-    "ctr": 2.079395,
-    "cpm": 8.119093,
+    "impressions": 1,
+    "reach": 1,
+    "clicks": 0,
+    "spend": 0.01,
+    "ctr": 0.0,
+    "cpm": 10.0,
     "purchases": 0.0,
     "revenue": 0.0,
     "roas": 0.0,
@@ -518,19 +445,19 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-01-05T07:27:10-0800",
     "adset_end": "",
-    "impressions": 3301,
-    "reach": 2661,
-    "clicks": 12,
-    "spend": 27.8,
-    "ctr": 0.363526,
-    "cpm": 8.42169,
-    "purchases": 6.0,
-    "revenue": 132.29,
-    "roas": 4.758633,
+    "impressions": 2,
+    "reach": 2,
+    "clicks": 0,
+    "spend": 0.0,
+    "ctr": 0.0,
+    "cpm": 0.0,
+    "purchases": 2.0,
+    "revenue": 12.88,
+    "roas": 0.0,
     "video_avg_watch": 0.0,
     "creative_id": "",
     "creative_name": "",
@@ -591,19 +518,19 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-01-20T04:45:52-0800",
     "adset_end": "",
-    "impressions": 7601,
-    "reach": 5058,
-    "clicks": 24,
-    "spend": 51.69,
-    "ctr": 0.315748,
-    "cpm": 6.800421,
-    "purchases": 4.0,
-    "revenue": 114.13,
-    "roas": 2.207971,
+    "impressions": 1,
+    "reach": 1,
+    "clicks": 0,
+    "spend": 0.02,
+    "ctr": 0.0,
+    "cpm": 20.0,
+    "purchases": 0.0,
+    "revenue": 0.0,
+    "roas": 0.0,
     "video_avg_watch": 0.0,
     "creative_id": "",
     "creative_name": "",
@@ -728,19 +655,19 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-01-20T04:45:52-0800",
     "adset_end": "",
-    "impressions": 3512,
-    "reach": 2727,
-    "clicks": 13,
-    "spend": 20.44,
-    "ctr": 0.370159,
-    "cpm": 5.820046,
-    "purchases": 5.0,
-    "revenue": 65.0,
-    "roas": 3.180039,
+    "impressions": 2,
+    "reach": 2,
+    "clicks": 0,
+    "spend": 0.02,
+    "ctr": 0.0,
+    "cpm": 10.0,
+    "purchases": 2.0,
+    "revenue": 36.17,
+    "roas": 1808.5,
     "video_avg_watch": 0.0,
     "creative_id": "",
     "creative_name": "",
@@ -865,16 +792,16 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-01-20T04:45:52-0800",
     "adset_end": "",
-    "impressions": 5382,
-    "reach": 3796,
-    "clicks": 11,
-    "spend": 33.92,
-    "ctr": 0.204385,
-    "cpm": 6.30249,
+    "impressions": 3,
+    "reach": 3,
+    "clicks": 0,
+    "spend": 0.03,
+    "ctr": 0.0,
+    "cpm": 10.0,
     "purchases": 0.0,
     "revenue": 0.0,
     "roas": 0.0,
@@ -995,143 +922,6 @@
     "confidence_label": "Non-influence"
   },
   {
-    "ad_id": "52562145948217",
-    "ad_name": "260128_video_TOFU_Kerra",
-    "adset_id": "52559394367217",
-    "adset_name": "US_Picta_Web_TOFU_LAL1-3%",
-    "campaign_id": "52552876398017",
-    "campaign_name": "PictaUS_Web_TOFU_Q125",
-    "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
-    "adset_start": "2026-01-20T04:45:52-0800",
-    "adset_end": "",
-    "impressions": 571,
-    "reach": 539,
-    "clicks": 5,
-    "spend": 3.07,
-    "ctr": 0.875657,
-    "cpm": 5.376532,
-    "purchases": 2.0,
-    "revenue": 31.69,
-    "roas": 10.322476,
-    "video_avg_watch": 1.0,
-    "creative_id": "",
-    "creative_name": "",
-    "thumbnail_url": "",
-    "instagram_permalink": "",
-    "instagram_actor_id": "",
-    "source_instagram_media_id": "",
-    "effective_instagram_media_id": "",
-    "branded_content_sponsor_page_id": "",
-    "object_story_spec": {},
-    "targeting": {
-      "age_max": 64,
-      "age_min": 18,
-      "excluded_custom_audiences": [
-        {
-          "id": "52544481615217",
-          "name": "meta_wg_top-clients"
-        },
-        {
-          "id": "52544482862017",
-          "name": "meta-criteo_wg_allusers"
-        },
-        {
-          "id": "52544482922017",
-          "name": "meta_wg_middle+top-clients"
-        },
-        {
-          "id": "52544483991417",
-          "name": "meta_cvs_middle+top-clients"
-        },
-        {
-          "id": "52544484183017",
-          "name": "meta-criteo_cvs_allusers"
-        },
-        {
-          "id": "52544484762617",
-          "name": "meta_cvs_top-clients"
-        },
-        {
-          "id": "52544485715617",
-          "name": "meta-criteo_us_allusers"
-        },
-        {
-          "id": "52544485926217",
-          "name": "meta_us_top-clients"
-        },
-        {
-          "id": "52544486165617",
-          "name": "meta_us_middle+top-clients"
-        }
-      ],
-      "custom_audiences": [
-        {
-          "id": "52559095582017",
-          "name": "Lookalike (US, 1% to 3%) - meta_us_middle+top-clients"
-        },
-        {
-          "id": "52559128612417",
-          "name": "Lookalike (US, 1% to 3%) - meta_us_top-clients"
-        },
-        {
-          "id": "52559128843817",
-          "name": "Lookalike (US, 1% to 3%) - meta-criteo_us_allusers"
-        },
-        {
-          "id": "52559128962617",
-          "name": "Lookalike (US, 1% to 3%) - meta_cvs_top-clients"
-        },
-        {
-          "id": "52559129001817",
-          "name": "Lookalike (US, 1% to 3%) - meta-criteo_cvs_allusers"
-        },
-        {
-          "id": "52559129182017",
-          "name": "Lookalike (US, 1% to 3%) - meta_cvs_middle+top-clients"
-        },
-        {
-          "id": "52559129988217",
-          "name": "Lookalike (US, 1% to 3%) - meta_wg_middle+top-clients"
-        },
-        {
-          "id": "52559130315017",
-          "name": "Lookalike (US, 1% to 3%) - meta-criteo_wg_allusers"
-        }
-      ],
-      "geo_locations": {
-        "countries": [
-          "US"
-        ],
-        "location_types": [
-          "home",
-          "recent"
-        ]
-      },
-      "locales": [
-        24,
-        6
-      ],
-      "targeting_automation": {
-        "advantage_audience": 0,
-        "individual_setting": {
-          "age": 0,
-          "gender": 1
-        }
-      }
-    },
-    "account_id": "308142134",
-    "influence_score": 0,
-    "is_influence": false,
-    "signals": [
-      "Creator name in ad_name: kerra"
-    ],
-    "creator_handle": "@kerra",
-    "creator_ig_id": null,
-    "confidence_label": "Non-influence"
-  },
-  {
     "ad_id": "52562148554617",
     "ad_name": "260128_static_Mofu_Poster1",
     "adset_id": "52544547628817",
@@ -1139,19 +929,19 @@
     "campaign_id": "52543286501817",
     "campaign_name": "PictaUS_Web_MOFU_Q126",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2025-12-17T03:26:04-0800",
     "adset_end": "",
-    "impressions": 9688,
-    "reach": 7202,
-    "clicks": 21,
-    "spend": 42.67,
-    "ctr": 0.216763,
-    "cpm": 4.404418,
-    "purchases": 11.0,
-    "revenue": 343.24,
-    "roas": 8.044059,
+    "impressions": 4,
+    "reach": 4,
+    "clicks": 0,
+    "spend": 0.02,
+    "ctr": 0.0,
+    "cpm": 5.0,
+    "purchases": 5.0,
+    "revenue": 96.6,
+    "roas": 4830.0,
     "video_avg_watch": 0.0,
     "creative_id": "",
     "creative_name": "",
@@ -1305,19 +1095,19 @@
     "campaign_id": "52543286501817",
     "campaign_name": "PictaUS_Web_MOFU_Q126",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2025-12-17T03:26:04-0800",
     "adset_end": "",
-    "impressions": 9262,
-    "reach": 6871,
-    "clicks": 29,
-    "spend": 52.61,
-    "ctr": 0.313107,
-    "cpm": 5.680199,
-    "purchases": 10.0,
-    "revenue": 229.32,
-    "roas": 4.358867,
+    "impressions": 7,
+    "reach": 6,
+    "clicks": 0,
+    "spend": 0.07,
+    "ctr": 0.0,
+    "cpm": 10.0,
+    "purchases": 2.0,
+    "revenue": 19.95,
+    "roas": 285.0,
     "video_avg_watch": 0.0,
     "creative_id": "",
     "creative_name": "",
@@ -1471,20 +1261,20 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-01-05T07:24:17-0800",
     "adset_end": "",
-    "impressions": 3662,
-    "reach": 2855,
-    "clicks": 127,
-    "spend": 26.96,
-    "ctr": 3.46805,
-    "cpm": 7.362097,
-    "purchases": 10.0,
-    "revenue": 148.68,
-    "roas": 5.514837,
-    "video_avg_watch": 3.0,
+    "impressions": 1,
+    "reach": 1,
+    "clicks": 0,
+    "spend": 0.02,
+    "ctr": 0.0,
+    "cpm": 20.0,
+    "purchases": 3.0,
+    "revenue": 68.47,
+    "roas": 3423.5,
+    "video_avg_watch": 84.0,
     "creative_id": "",
     "creative_name": "",
     "thumbnail_url": "",
@@ -1544,20 +1334,20 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-01-20T04:45:52-0800",
     "adset_end": "",
-    "impressions": 9565,
-    "reach": 6695,
-    "clicks": 123,
-    "spend": 67.65,
-    "ctr": 1.285938,
-    "cpm": 7.072661,
-    "purchases": 14.0,
-    "revenue": 264.24,
-    "roas": 3.905987,
-    "video_avg_watch": 2.0,
+    "impressions": 2,
+    "reach": 2,
+    "clicks": 0,
+    "spend": 0.0,
+    "ctr": 0.0,
+    "cpm": 0.0,
+    "purchases": 7.0,
+    "revenue": 214.14,
+    "roas": 0.0,
+    "video_avg_watch": 0.0,
     "creative_id": "",
     "creative_name": "",
     "thumbnail_url": "",
@@ -1681,19 +1471,19 @@
     "campaign_id": "52543286501817",
     "campaign_name": "PictaUS_Web_MOFU_Q126",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2025-12-17T03:26:04-0800",
     "adset_end": "",
-    "impressions": 14746,
-    "reach": 10512,
-    "clicks": 46,
-    "spend": 54.02,
-    "ctr": 0.311949,
-    "cpm": 3.663366,
-    "purchases": 14.0,
-    "revenue": 329.41,
-    "roas": 6.097927,
+    "impressions": 2,
+    "reach": 2,
+    "clicks": 0,
+    "spend": 0.0,
+    "ctr": 0.0,
+    "cpm": 0.0,
+    "purchases": 2.0,
+    "revenue": 37.06,
+    "roas": 0.0,
     "video_avg_watch": 0.0,
     "creative_id": "",
     "creative_name": "",
@@ -1847,19 +1637,19 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-01-05T07:24:17-0800",
     "adset_end": "",
-    "impressions": 3813,
-    "reach": 2760,
-    "clicks": 14,
-    "spend": 26.03,
-    "ctr": 0.367165,
-    "cpm": 6.826646,
-    "purchases": 6.0,
-    "revenue": 163.21,
-    "roas": 6.270073,
+    "impressions": 3,
+    "reach": 3,
+    "clicks": 0,
+    "spend": 0.0,
+    "ctr": 0.0,
+    "cpm": 0.0,
+    "purchases": 1.0,
+    "revenue": 49.17,
+    "roas": 0.0,
     "video_avg_watch": 0.0,
     "creative_id": "",
     "creative_name": "",
@@ -1920,19 +1710,19 @@
     "campaign_id": "52543286501817",
     "campaign_name": "PictaUS_Web_MOFU_Q126",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2025-12-17T03:26:04-0800",
     "adset_end": "",
-    "impressions": 9255,
-    "reach": 6988,
-    "clicks": 32,
-    "spend": 38.16,
-    "ctr": 0.345759,
-    "cpm": 4.123177,
-    "purchases": 9.0,
-    "revenue": 154.73,
-    "roas": 4.054769,
+    "impressions": 8,
+    "reach": 7,
+    "clicks": 0,
+    "spend": 0.07,
+    "ctr": 0.0,
+    "cpm": 8.75,
+    "purchases": 2.0,
+    "revenue": 26.83,
+    "roas": 383.285714,
     "video_avg_watch": 0.0,
     "creative_id": "",
     "creative_name": "",
@@ -2086,20 +1876,20 @@
     "campaign_id": "52543286501817",
     "campaign_name": "PictaUS_Web_MOFU_Q126",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2025-12-17T03:26:04-0800",
     "adset_end": "",
-    "impressions": 20799,
-    "reach": 13984,
-    "clicks": 173,
-    "spend": 101.33,
-    "ctr": 0.831771,
-    "cpm": 4.871869,
-    "purchases": 28.0,
-    "revenue": 407.22,
-    "roas": 4.018751,
-    "video_avg_watch": 1.0,
+    "impressions": 10,
+    "reach": 10,
+    "clicks": 0,
+    "spend": 0.1,
+    "ctr": 0.0,
+    "cpm": 10.0,
+    "purchases": 8.0,
+    "revenue": 74.54,
+    "roas": 745.4,
+    "video_avg_watch": 2.0,
     "creative_id": "",
     "creative_name": "",
     "thumbnail_url": "",
@@ -2252,19 +2042,19 @@
     "campaign_id": "52543286501817",
     "campaign_name": "PictaUS_Web_MOFU_Q126",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2025-12-17T03:26:04-0800",
     "adset_end": "",
-    "impressions": 5584,
-    "reach": 4314,
-    "clicks": 32,
-    "spend": 23.62,
-    "ctr": 0.573066,
-    "cpm": 4.229943,
-    "purchases": 4.0,
-    "revenue": 89.65,
-    "roas": 3.795512,
+    "impressions": 12,
+    "reach": 12,
+    "clicks": 0,
+    "spend": 0.01,
+    "ctr": 0.0,
+    "cpm": 0.833333,
+    "purchases": 0.0,
+    "revenue": 0.0,
+    "roas": 0.0,
     "video_avg_watch": 0.0,
     "creative_id": "",
     "creative_name": "",
@@ -2418,19 +2208,19 @@
     "campaign_id": "52543286501817",
     "campaign_name": "PictaUS_Web_MOFU_Q126",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2025-12-17T03:26:04-0800",
     "adset_end": "",
-    "impressions": 14652,
-    "reach": 10753,
-    "clicks": 59,
-    "spend": 72.42,
-    "ctr": 0.402675,
-    "cpm": 4.94267,
-    "purchases": 19.0,
-    "revenue": 427.91,
-    "roas": 5.908727,
+    "impressions": 18,
+    "reach": 18,
+    "clicks": 0,
+    "spend": 0.18,
+    "ctr": 0.0,
+    "cpm": 10.0,
+    "purchases": 6.0,
+    "revenue": 215.3,
+    "roas": 1196.111111,
     "video_avg_watch": 0.0,
     "creative_id": "",
     "creative_name": "",
@@ -2584,19 +2374,19 @@
     "campaign_id": "52562894677217",
     "campaign_name": "PictaUS_Web_shoppingfeed_Q126",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-01-30T01:17:54-0800",
     "adset_end": "",
-    "impressions": 318128,
-    "reach": 106562,
-    "clicks": 2905,
-    "spend": 3096.93,
-    "ctr": 0.913154,
-    "cpm": 9.734855,
-    "purchases": 389.0,
-    "revenue": 7589.46,
-    "roas": 2.45064,
+    "impressions": 293708,
+    "reach": 99188,
+    "clicks": 2643,
+    "spend": 2920.62,
+    "ctr": 0.899873,
+    "cpm": 9.943958,
+    "purchases": 369.0,
+    "revenue": 7118.56,
+    "roas": 2.437346,
     "video_avg_watch": 1.0,
     "creative_id": "",
     "creative_name": "",
@@ -2688,1446 +2478,6 @@
     "confidence_label": "Non-influence"
   },
   {
-    "ad_id": "52562913668017",
-    "ad_name": "260128_video_saintval_Motion",
-    "adset_id": "52545333746817",
-    "adset_name": "US_Picta_Web_MOFU_LAL1%",
-    "campaign_id": "52543286501817",
-    "campaign_name": "PictaUS_Web_MOFU_Q126",
-    "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
-    "adset_start": "2025-12-18T05:29:09-0800",
-    "adset_end": "",
-    "impressions": 8,
-    "reach": 8,
-    "clicks": 0,
-    "spend": 0.07,
-    "ctr": 0.0,
-    "cpm": 8.75,
-    "purchases": 0.0,
-    "revenue": 0.0,
-    "roas": 0.0,
-    "video_avg_watch": 5.0,
-    "creative_id": "",
-    "creative_name": "",
-    "thumbnail_url": "",
-    "instagram_permalink": "",
-    "instagram_actor_id": "",
-    "source_instagram_media_id": "",
-    "effective_instagram_media_id": "",
-    "branded_content_sponsor_page_id": "",
-    "object_story_spec": {},
-    "targeting": {
-      "age_max": 64,
-      "age_min": 18,
-      "excluded_custom_audiences": [
-        {
-          "id": "52544481615217",
-          "name": "meta_wg_top-clients"
-        },
-        {
-          "id": "52544482862017",
-          "name": "meta-criteo_wg_allusers"
-        },
-        {
-          "id": "52544482922017",
-          "name": "meta_wg_middle+top-clients"
-        },
-        {
-          "id": "52544483991417",
-          "name": "meta_cvs_middle+top-clients"
-        },
-        {
-          "id": "52544484183017",
-          "name": "meta-criteo_cvs_allusers"
-        },
-        {
-          "id": "52544484762617",
-          "name": "meta_cvs_top-clients"
-        },
-        {
-          "id": "52544485715617",
-          "name": "meta-criteo_us_allusers"
-        },
-        {
-          "id": "52544485926217",
-          "name": "meta_us_top-clients"
-        },
-        {
-          "id": "52544486165617",
-          "name": "meta_us_middle+top-clients"
-        }
-      ],
-      "custom_audiences": [
-        {
-          "id": "52545321010417",
-          "name": "Lookalike (US, 1%) - meta_us_middle+top-clients"
-        },
-        {
-          "id": "52545321732017",
-          "name": "Lookalike (US, 1%) - meta_us_top-clients"
-        },
-        {
-          "id": "52545321911017",
-          "name": "Lookalike (US, 1%) - meta-criteo_us_allusers"
-        },
-        {
-          "id": "52545321978017",
-          "name": "Lookalike (US, 1%) - meta-criteo_cvs_allusers"
-        },
-        {
-          "id": "52545322010817",
-          "name": "Lookalike (US, 1%) - meta_cvs_middle+top-clients"
-        },
-        {
-          "id": "52545322078217",
-          "name": "Lookalike (US, 1%) - meta_wg_middle+top-clients"
-        },
-        {
-          "id": "52545322143617",
-          "name": "Lookalike (US, 1%) - meta-criteo_wg_allusers"
-        },
-        {
-          "id": "52545322185817",
-          "name": "Lookalike (US, 1%) - meta_wg_top-clients"
-        },
-        {
-          "id": "52545322333417",
-          "name": "Lookalike (US, 1%) - meta_cvs_top-clients"
-        }
-      ],
-      "geo_locations": {
-        "countries": [
-          "US"
-        ],
-        "location_types": [
-          "home",
-          "recent"
-        ]
-      },
-      "locales": [
-        6
-      ],
-      "brand_safety_content_filter_levels": [
-        "FACEBOOK_RELAXED",
-        "AN_RELAXED"
-      ],
-      "targeting_automation": {
-        "advantage_audience": 0,
-        "individual_setting": {
-          "age": 0,
-          "gender": 1
-        }
-      }
-    },
-    "account_id": "308142134",
-    "influence_score": 0,
-    "is_influence": false,
-    "signals": [
-      "Creator name in ad_name: motion"
-    ],
-    "creator_handle": "@motion",
-    "creator_ig_id": null,
-    "confidence_label": "Non-influence"
-  },
-  {
-    "ad_id": "52562913668217",
-    "ad_name": "260128_video_saintval_Skylar",
-    "adset_id": "52545333746817",
-    "adset_name": "US_Picta_Web_MOFU_LAL1%",
-    "campaign_id": "52543286501817",
-    "campaign_name": "PictaUS_Web_MOFU_Q126",
-    "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
-    "adset_start": "2025-12-18T05:29:09-0800",
-    "adset_end": "",
-    "impressions": 12,
-    "reach": 11,
-    "clicks": 1,
-    "spend": 0.11,
-    "ctr": 8.333333,
-    "cpm": 9.166667,
-    "purchases": 1.0,
-    "revenue": 13.86,
-    "roas": 126.0,
-    "video_avg_watch": 7.0,
-    "creative_id": "",
-    "creative_name": "",
-    "thumbnail_url": "",
-    "instagram_permalink": "",
-    "instagram_actor_id": "",
-    "source_instagram_media_id": "",
-    "effective_instagram_media_id": "",
-    "branded_content_sponsor_page_id": "",
-    "object_story_spec": {},
-    "targeting": {
-      "age_max": 64,
-      "age_min": 18,
-      "excluded_custom_audiences": [
-        {
-          "id": "52544481615217",
-          "name": "meta_wg_top-clients"
-        },
-        {
-          "id": "52544482862017",
-          "name": "meta-criteo_wg_allusers"
-        },
-        {
-          "id": "52544482922017",
-          "name": "meta_wg_middle+top-clients"
-        },
-        {
-          "id": "52544483991417",
-          "name": "meta_cvs_middle+top-clients"
-        },
-        {
-          "id": "52544484183017",
-          "name": "meta-criteo_cvs_allusers"
-        },
-        {
-          "id": "52544484762617",
-          "name": "meta_cvs_top-clients"
-        },
-        {
-          "id": "52544485715617",
-          "name": "meta-criteo_us_allusers"
-        },
-        {
-          "id": "52544485926217",
-          "name": "meta_us_top-clients"
-        },
-        {
-          "id": "52544486165617",
-          "name": "meta_us_middle+top-clients"
-        }
-      ],
-      "custom_audiences": [
-        {
-          "id": "52545321010417",
-          "name": "Lookalike (US, 1%) - meta_us_middle+top-clients"
-        },
-        {
-          "id": "52545321732017",
-          "name": "Lookalike (US, 1%) - meta_us_top-clients"
-        },
-        {
-          "id": "52545321911017",
-          "name": "Lookalike (US, 1%) - meta-criteo_us_allusers"
-        },
-        {
-          "id": "52545321978017",
-          "name": "Lookalike (US, 1%) - meta-criteo_cvs_allusers"
-        },
-        {
-          "id": "52545322010817",
-          "name": "Lookalike (US, 1%) - meta_cvs_middle+top-clients"
-        },
-        {
-          "id": "52545322078217",
-          "name": "Lookalike (US, 1%) - meta_wg_middle+top-clients"
-        },
-        {
-          "id": "52545322143617",
-          "name": "Lookalike (US, 1%) - meta-criteo_wg_allusers"
-        },
-        {
-          "id": "52545322185817",
-          "name": "Lookalike (US, 1%) - meta_wg_top-clients"
-        },
-        {
-          "id": "52545322333417",
-          "name": "Lookalike (US, 1%) - meta_cvs_top-clients"
-        }
-      ],
-      "geo_locations": {
-        "countries": [
-          "US"
-        ],
-        "location_types": [
-          "home",
-          "recent"
-        ]
-      },
-      "locales": [
-        6
-      ],
-      "brand_safety_content_filter_levels": [
-        "FACEBOOK_RELAXED",
-        "AN_RELAXED"
-      ],
-      "targeting_automation": {
-        "advantage_audience": 0,
-        "individual_setting": {
-          "age": 0,
-          "gender": 1
-        }
-      }
-    },
-    "account_id": "308142134",
-    "influence_score": 0,
-    "is_influence": false,
-    "signals": [
-      "Creator name in ad_name: skylar"
-    ],
-    "creator_handle": "@skylar",
-    "creator_ig_id": null,
-    "confidence_label": "Non-influence"
-  },
-  {
-    "ad_id": "52562913668417",
-    "ad_name": "260128_static_saintval_Prints",
-    "adset_id": "52545333746817",
-    "adset_name": "US_Picta_Web_MOFU_LAL1%",
-    "campaign_id": "52543286501817",
-    "campaign_name": "PictaUS_Web_MOFU_Q126",
-    "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
-    "adset_start": "2025-12-18T05:29:09-0800",
-    "adset_end": "",
-    "impressions": 15,
-    "reach": 11,
-    "clicks": 2,
-    "spend": 0.17,
-    "ctr": 13.333333,
-    "cpm": 11.333333,
-    "purchases": 0.0,
-    "revenue": 0.0,
-    "roas": 0.0,
-    "video_avg_watch": 0.0,
-    "creative_id": "",
-    "creative_name": "",
-    "thumbnail_url": "",
-    "instagram_permalink": "",
-    "instagram_actor_id": "",
-    "source_instagram_media_id": "",
-    "effective_instagram_media_id": "",
-    "branded_content_sponsor_page_id": "",
-    "object_story_spec": {},
-    "targeting": {
-      "age_max": 64,
-      "age_min": 18,
-      "excluded_custom_audiences": [
-        {
-          "id": "52544481615217",
-          "name": "meta_wg_top-clients"
-        },
-        {
-          "id": "52544482862017",
-          "name": "meta-criteo_wg_allusers"
-        },
-        {
-          "id": "52544482922017",
-          "name": "meta_wg_middle+top-clients"
-        },
-        {
-          "id": "52544483991417",
-          "name": "meta_cvs_middle+top-clients"
-        },
-        {
-          "id": "52544484183017",
-          "name": "meta-criteo_cvs_allusers"
-        },
-        {
-          "id": "52544484762617",
-          "name": "meta_cvs_top-clients"
-        },
-        {
-          "id": "52544485715617",
-          "name": "meta-criteo_us_allusers"
-        },
-        {
-          "id": "52544485926217",
-          "name": "meta_us_top-clients"
-        },
-        {
-          "id": "52544486165617",
-          "name": "meta_us_middle+top-clients"
-        }
-      ],
-      "custom_audiences": [
-        {
-          "id": "52545321010417",
-          "name": "Lookalike (US, 1%) - meta_us_middle+top-clients"
-        },
-        {
-          "id": "52545321732017",
-          "name": "Lookalike (US, 1%) - meta_us_top-clients"
-        },
-        {
-          "id": "52545321911017",
-          "name": "Lookalike (US, 1%) - meta-criteo_us_allusers"
-        },
-        {
-          "id": "52545321978017",
-          "name": "Lookalike (US, 1%) - meta-criteo_cvs_allusers"
-        },
-        {
-          "id": "52545322010817",
-          "name": "Lookalike (US, 1%) - meta_cvs_middle+top-clients"
-        },
-        {
-          "id": "52545322078217",
-          "name": "Lookalike (US, 1%) - meta_wg_middle+top-clients"
-        },
-        {
-          "id": "52545322143617",
-          "name": "Lookalike (US, 1%) - meta-criteo_wg_allusers"
-        },
-        {
-          "id": "52545322185817",
-          "name": "Lookalike (US, 1%) - meta_wg_top-clients"
-        },
-        {
-          "id": "52545322333417",
-          "name": "Lookalike (US, 1%) - meta_cvs_top-clients"
-        }
-      ],
-      "geo_locations": {
-        "countries": [
-          "US"
-        ],
-        "location_types": [
-          "home",
-          "recent"
-        ]
-      },
-      "locales": [
-        6
-      ],
-      "brand_safety_content_filter_levels": [
-        "FACEBOOK_RELAXED",
-        "AN_RELAXED"
-      ],
-      "targeting_automation": {
-        "advantage_audience": 0,
-        "individual_setting": {
-          "age": 0,
-          "gender": 1
-        }
-      }
-    },
-    "account_id": "308142134",
-    "influence_score": 0,
-    "is_influence": false,
-    "signals": [
-      "Creator name in ad_name: saintval"
-    ],
-    "creator_handle": "@saintval",
-    "creator_ig_id": null,
-    "confidence_label": "Non-influence"
-  },
-  {
-    "ad_id": "52562913668617",
-    "ad_name": "260128_video_saintval_Kaori2",
-    "adset_id": "52545333746817",
-    "adset_name": "US_Picta_Web_MOFU_LAL1%",
-    "campaign_id": "52543286501817",
-    "campaign_name": "PictaUS_Web_MOFU_Q126",
-    "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
-    "adset_start": "2025-12-18T05:29:09-0800",
-    "adset_end": "",
-    "impressions": 10,
-    "reach": 9,
-    "clicks": 0,
-    "spend": 0.14,
-    "ctr": 0.0,
-    "cpm": 14.0,
-    "purchases": 0.0,
-    "revenue": 0.0,
-    "roas": 0.0,
-    "video_avg_watch": 4.0,
-    "creative_id": "",
-    "creative_name": "",
-    "thumbnail_url": "",
-    "instagram_permalink": "",
-    "instagram_actor_id": "",
-    "source_instagram_media_id": "",
-    "effective_instagram_media_id": "",
-    "branded_content_sponsor_page_id": "",
-    "object_story_spec": {},
-    "targeting": {
-      "age_max": 64,
-      "age_min": 18,
-      "excluded_custom_audiences": [
-        {
-          "id": "52544481615217",
-          "name": "meta_wg_top-clients"
-        },
-        {
-          "id": "52544482862017",
-          "name": "meta-criteo_wg_allusers"
-        },
-        {
-          "id": "52544482922017",
-          "name": "meta_wg_middle+top-clients"
-        },
-        {
-          "id": "52544483991417",
-          "name": "meta_cvs_middle+top-clients"
-        },
-        {
-          "id": "52544484183017",
-          "name": "meta-criteo_cvs_allusers"
-        },
-        {
-          "id": "52544484762617",
-          "name": "meta_cvs_top-clients"
-        },
-        {
-          "id": "52544485715617",
-          "name": "meta-criteo_us_allusers"
-        },
-        {
-          "id": "52544485926217",
-          "name": "meta_us_top-clients"
-        },
-        {
-          "id": "52544486165617",
-          "name": "meta_us_middle+top-clients"
-        }
-      ],
-      "custom_audiences": [
-        {
-          "id": "52545321010417",
-          "name": "Lookalike (US, 1%) - meta_us_middle+top-clients"
-        },
-        {
-          "id": "52545321732017",
-          "name": "Lookalike (US, 1%) - meta_us_top-clients"
-        },
-        {
-          "id": "52545321911017",
-          "name": "Lookalike (US, 1%) - meta-criteo_us_allusers"
-        },
-        {
-          "id": "52545321978017",
-          "name": "Lookalike (US, 1%) - meta-criteo_cvs_allusers"
-        },
-        {
-          "id": "52545322010817",
-          "name": "Lookalike (US, 1%) - meta_cvs_middle+top-clients"
-        },
-        {
-          "id": "52545322078217",
-          "name": "Lookalike (US, 1%) - meta_wg_middle+top-clients"
-        },
-        {
-          "id": "52545322143617",
-          "name": "Lookalike (US, 1%) - meta-criteo_wg_allusers"
-        },
-        {
-          "id": "52545322185817",
-          "name": "Lookalike (US, 1%) - meta_wg_top-clients"
-        },
-        {
-          "id": "52545322333417",
-          "name": "Lookalike (US, 1%) - meta_cvs_top-clients"
-        }
-      ],
-      "geo_locations": {
-        "countries": [
-          "US"
-        ],
-        "location_types": [
-          "home",
-          "recent"
-        ]
-      },
-      "locales": [
-        6
-      ],
-      "brand_safety_content_filter_levels": [
-        "FACEBOOK_RELAXED",
-        "AN_RELAXED"
-      ],
-      "targeting_automation": {
-        "advantage_audience": 0,
-        "individual_setting": {
-          "age": 0,
-          "gender": 1
-        }
-      }
-    },
-    "account_id": "308142134",
-    "influence_score": 0,
-    "is_influence": false,
-    "signals": [
-      "Creator name in ad_name: saintval"
-    ],
-    "creator_handle": "@saintval",
-    "creator_ig_id": null,
-    "confidence_label": "Non-influence"
-  },
-  {
-    "ad_id": "52562913668817",
-    "ad_name": "260128_static_saintval_Poster2",
-    "adset_id": "52545333746817",
-    "adset_name": "US_Picta_Web_MOFU_LAL1%",
-    "campaign_id": "52543286501817",
-    "campaign_name": "PictaUS_Web_MOFU_Q126",
-    "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
-    "adset_start": "2025-12-18T05:29:09-0800",
-    "adset_end": "",
-    "impressions": 17,
-    "reach": 15,
-    "clicks": 0,
-    "spend": 0.06,
-    "ctr": 0.0,
-    "cpm": 3.529412,
-    "purchases": 1.0,
-    "revenue": 77.28,
-    "roas": 1288.0,
-    "video_avg_watch": 0.0,
-    "creative_id": "",
-    "creative_name": "",
-    "thumbnail_url": "",
-    "instagram_permalink": "",
-    "instagram_actor_id": "",
-    "source_instagram_media_id": "",
-    "effective_instagram_media_id": "",
-    "branded_content_sponsor_page_id": "",
-    "object_story_spec": {},
-    "targeting": {
-      "age_max": 64,
-      "age_min": 18,
-      "excluded_custom_audiences": [
-        {
-          "id": "52544481615217",
-          "name": "meta_wg_top-clients"
-        },
-        {
-          "id": "52544482862017",
-          "name": "meta-criteo_wg_allusers"
-        },
-        {
-          "id": "52544482922017",
-          "name": "meta_wg_middle+top-clients"
-        },
-        {
-          "id": "52544483991417",
-          "name": "meta_cvs_middle+top-clients"
-        },
-        {
-          "id": "52544484183017",
-          "name": "meta-criteo_cvs_allusers"
-        },
-        {
-          "id": "52544484762617",
-          "name": "meta_cvs_top-clients"
-        },
-        {
-          "id": "52544485715617",
-          "name": "meta-criteo_us_allusers"
-        },
-        {
-          "id": "52544485926217",
-          "name": "meta_us_top-clients"
-        },
-        {
-          "id": "52544486165617",
-          "name": "meta_us_middle+top-clients"
-        }
-      ],
-      "custom_audiences": [
-        {
-          "id": "52545321010417",
-          "name": "Lookalike (US, 1%) - meta_us_middle+top-clients"
-        },
-        {
-          "id": "52545321732017",
-          "name": "Lookalike (US, 1%) - meta_us_top-clients"
-        },
-        {
-          "id": "52545321911017",
-          "name": "Lookalike (US, 1%) - meta-criteo_us_allusers"
-        },
-        {
-          "id": "52545321978017",
-          "name": "Lookalike (US, 1%) - meta-criteo_cvs_allusers"
-        },
-        {
-          "id": "52545322010817",
-          "name": "Lookalike (US, 1%) - meta_cvs_middle+top-clients"
-        },
-        {
-          "id": "52545322078217",
-          "name": "Lookalike (US, 1%) - meta_wg_middle+top-clients"
-        },
-        {
-          "id": "52545322143617",
-          "name": "Lookalike (US, 1%) - meta-criteo_wg_allusers"
-        },
-        {
-          "id": "52545322185817",
-          "name": "Lookalike (US, 1%) - meta_wg_top-clients"
-        },
-        {
-          "id": "52545322333417",
-          "name": "Lookalike (US, 1%) - meta_cvs_top-clients"
-        }
-      ],
-      "geo_locations": {
-        "countries": [
-          "US"
-        ],
-        "location_types": [
-          "home",
-          "recent"
-        ]
-      },
-      "locales": [
-        6
-      ],
-      "brand_safety_content_filter_levels": [
-        "FACEBOOK_RELAXED",
-        "AN_RELAXED"
-      ],
-      "targeting_automation": {
-        "advantage_audience": 0,
-        "individual_setting": {
-          "age": 0,
-          "gender": 1
-        }
-      }
-    },
-    "account_id": "308142134",
-    "influence_score": 0,
-    "is_influence": false,
-    "signals": [
-      "Creator name in ad_name: saintval"
-    ],
-    "creator_handle": "@saintval",
-    "creator_ig_id": null,
-    "confidence_label": "Non-influence"
-  },
-  {
-    "ad_id": "52562913669017",
-    "ad_name": "260128_static_saintval_PhotoBook2",
-    "adset_id": "52545333746817",
-    "adset_name": "US_Picta_Web_MOFU_LAL1%",
-    "campaign_id": "52543286501817",
-    "campaign_name": "PictaUS_Web_MOFU_Q126",
-    "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
-    "adset_start": "2025-12-18T05:29:09-0800",
-    "adset_end": "",
-    "impressions": 6,
-    "reach": 5,
-    "clicks": 0,
-    "spend": 0.04,
-    "ctr": 0.0,
-    "cpm": 6.666667,
-    "purchases": 0.0,
-    "revenue": 0.0,
-    "roas": 0.0,
-    "video_avg_watch": 0.0,
-    "creative_id": "",
-    "creative_name": "",
-    "thumbnail_url": "",
-    "instagram_permalink": "",
-    "instagram_actor_id": "",
-    "source_instagram_media_id": "",
-    "effective_instagram_media_id": "",
-    "branded_content_sponsor_page_id": "",
-    "object_story_spec": {},
-    "targeting": {
-      "age_max": 64,
-      "age_min": 18,
-      "excluded_custom_audiences": [
-        {
-          "id": "52544481615217",
-          "name": "meta_wg_top-clients"
-        },
-        {
-          "id": "52544482862017",
-          "name": "meta-criteo_wg_allusers"
-        },
-        {
-          "id": "52544482922017",
-          "name": "meta_wg_middle+top-clients"
-        },
-        {
-          "id": "52544483991417",
-          "name": "meta_cvs_middle+top-clients"
-        },
-        {
-          "id": "52544484183017",
-          "name": "meta-criteo_cvs_allusers"
-        },
-        {
-          "id": "52544484762617",
-          "name": "meta_cvs_top-clients"
-        },
-        {
-          "id": "52544485715617",
-          "name": "meta-criteo_us_allusers"
-        },
-        {
-          "id": "52544485926217",
-          "name": "meta_us_top-clients"
-        },
-        {
-          "id": "52544486165617",
-          "name": "meta_us_middle+top-clients"
-        }
-      ],
-      "custom_audiences": [
-        {
-          "id": "52545321010417",
-          "name": "Lookalike (US, 1%) - meta_us_middle+top-clients"
-        },
-        {
-          "id": "52545321732017",
-          "name": "Lookalike (US, 1%) - meta_us_top-clients"
-        },
-        {
-          "id": "52545321911017",
-          "name": "Lookalike (US, 1%) - meta-criteo_us_allusers"
-        },
-        {
-          "id": "52545321978017",
-          "name": "Lookalike (US, 1%) - meta-criteo_cvs_allusers"
-        },
-        {
-          "id": "52545322010817",
-          "name": "Lookalike (US, 1%) - meta_cvs_middle+top-clients"
-        },
-        {
-          "id": "52545322078217",
-          "name": "Lookalike (US, 1%) - meta_wg_middle+top-clients"
-        },
-        {
-          "id": "52545322143617",
-          "name": "Lookalike (US, 1%) - meta-criteo_wg_allusers"
-        },
-        {
-          "id": "52545322185817",
-          "name": "Lookalike (US, 1%) - meta_wg_top-clients"
-        },
-        {
-          "id": "52545322333417",
-          "name": "Lookalike (US, 1%) - meta_cvs_top-clients"
-        }
-      ],
-      "geo_locations": {
-        "countries": [
-          "US"
-        ],
-        "location_types": [
-          "home",
-          "recent"
-        ]
-      },
-      "locales": [
-        6
-      ],
-      "brand_safety_content_filter_levels": [
-        "FACEBOOK_RELAXED",
-        "AN_RELAXED"
-      ],
-      "targeting_automation": {
-        "advantage_audience": 0,
-        "individual_setting": {
-          "age": 0,
-          "gender": 1
-        }
-      }
-    },
-    "account_id": "308142134",
-    "influence_score": 0,
-    "is_influence": false,
-    "signals": [
-      "Creator name in ad_name: saintval"
-    ],
-    "creator_handle": "@saintval",
-    "creator_ig_id": null,
-    "confidence_label": "Non-influence"
-  },
-  {
-    "ad_id": "52562913669217",
-    "ad_name": "260128_static_saintval_Canvas1",
-    "adset_id": "52545333746817",
-    "adset_name": "US_Picta_Web_MOFU_LAL1%",
-    "campaign_id": "52543286501817",
-    "campaign_name": "PictaUS_Web_MOFU_Q126",
-    "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
-    "adset_start": "2025-12-18T05:29:09-0800",
-    "adset_end": "",
-    "impressions": 13,
-    "reach": 10,
-    "clicks": 0,
-    "spend": 0.05,
-    "ctr": 0.0,
-    "cpm": 3.846154,
-    "purchases": 3.0,
-    "revenue": 66.04,
-    "roas": 1320.8,
-    "video_avg_watch": 0.0,
-    "creative_id": "",
-    "creative_name": "",
-    "thumbnail_url": "",
-    "instagram_permalink": "",
-    "instagram_actor_id": "",
-    "source_instagram_media_id": "",
-    "effective_instagram_media_id": "",
-    "branded_content_sponsor_page_id": "",
-    "object_story_spec": {},
-    "targeting": {
-      "age_max": 64,
-      "age_min": 18,
-      "excluded_custom_audiences": [
-        {
-          "id": "52544481615217",
-          "name": "meta_wg_top-clients"
-        },
-        {
-          "id": "52544482862017",
-          "name": "meta-criteo_wg_allusers"
-        },
-        {
-          "id": "52544482922017",
-          "name": "meta_wg_middle+top-clients"
-        },
-        {
-          "id": "52544483991417",
-          "name": "meta_cvs_middle+top-clients"
-        },
-        {
-          "id": "52544484183017",
-          "name": "meta-criteo_cvs_allusers"
-        },
-        {
-          "id": "52544484762617",
-          "name": "meta_cvs_top-clients"
-        },
-        {
-          "id": "52544485715617",
-          "name": "meta-criteo_us_allusers"
-        },
-        {
-          "id": "52544485926217",
-          "name": "meta_us_top-clients"
-        },
-        {
-          "id": "52544486165617",
-          "name": "meta_us_middle+top-clients"
-        }
-      ],
-      "custom_audiences": [
-        {
-          "id": "52545321010417",
-          "name": "Lookalike (US, 1%) - meta_us_middle+top-clients"
-        },
-        {
-          "id": "52545321732017",
-          "name": "Lookalike (US, 1%) - meta_us_top-clients"
-        },
-        {
-          "id": "52545321911017",
-          "name": "Lookalike (US, 1%) - meta-criteo_us_allusers"
-        },
-        {
-          "id": "52545321978017",
-          "name": "Lookalike (US, 1%) - meta-criteo_cvs_allusers"
-        },
-        {
-          "id": "52545322010817",
-          "name": "Lookalike (US, 1%) - meta_cvs_middle+top-clients"
-        },
-        {
-          "id": "52545322078217",
-          "name": "Lookalike (US, 1%) - meta_wg_middle+top-clients"
-        },
-        {
-          "id": "52545322143617",
-          "name": "Lookalike (US, 1%) - meta-criteo_wg_allusers"
-        },
-        {
-          "id": "52545322185817",
-          "name": "Lookalike (US, 1%) - meta_wg_top-clients"
-        },
-        {
-          "id": "52545322333417",
-          "name": "Lookalike (US, 1%) - meta_cvs_top-clients"
-        }
-      ],
-      "geo_locations": {
-        "countries": [
-          "US"
-        ],
-        "location_types": [
-          "home",
-          "recent"
-        ]
-      },
-      "locales": [
-        6
-      ],
-      "brand_safety_content_filter_levels": [
-        "FACEBOOK_RELAXED",
-        "AN_RELAXED"
-      ],
-      "targeting_automation": {
-        "advantage_audience": 0,
-        "individual_setting": {
-          "age": 0,
-          "gender": 1
-        }
-      }
-    },
-    "account_id": "308142134",
-    "influence_score": 0,
-    "is_influence": false,
-    "signals": [
-      "Creator name in ad_name: saintval"
-    ],
-    "creator_handle": "@saintval",
-    "creator_ig_id": null,
-    "confidence_label": "Non-influence"
-  },
-  {
-    "ad_id": "52562913669617",
-    "ad_name": "260128_static_saintval_PhotoBook",
-    "adset_id": "52545333746817",
-    "adset_name": "US_Picta_Web_MOFU_LAL1%",
-    "campaign_id": "52543286501817",
-    "campaign_name": "PictaUS_Web_MOFU_Q126",
-    "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
-    "adset_start": "2025-12-18T05:29:09-0800",
-    "adset_end": "",
-    "impressions": 3,
-    "reach": 2,
-    "clicks": 0,
-    "spend": 0.1,
-    "ctr": 0.0,
-    "cpm": 33.333333,
-    "purchases": 0.0,
-    "revenue": 0.0,
-    "roas": 0.0,
-    "video_avg_watch": 0.0,
-    "creative_id": "",
-    "creative_name": "",
-    "thumbnail_url": "",
-    "instagram_permalink": "",
-    "instagram_actor_id": "",
-    "source_instagram_media_id": "",
-    "effective_instagram_media_id": "",
-    "branded_content_sponsor_page_id": "",
-    "object_story_spec": {},
-    "targeting": {
-      "age_max": 64,
-      "age_min": 18,
-      "excluded_custom_audiences": [
-        {
-          "id": "52544481615217",
-          "name": "meta_wg_top-clients"
-        },
-        {
-          "id": "52544482862017",
-          "name": "meta-criteo_wg_allusers"
-        },
-        {
-          "id": "52544482922017",
-          "name": "meta_wg_middle+top-clients"
-        },
-        {
-          "id": "52544483991417",
-          "name": "meta_cvs_middle+top-clients"
-        },
-        {
-          "id": "52544484183017",
-          "name": "meta-criteo_cvs_allusers"
-        },
-        {
-          "id": "52544484762617",
-          "name": "meta_cvs_top-clients"
-        },
-        {
-          "id": "52544485715617",
-          "name": "meta-criteo_us_allusers"
-        },
-        {
-          "id": "52544485926217",
-          "name": "meta_us_top-clients"
-        },
-        {
-          "id": "52544486165617",
-          "name": "meta_us_middle+top-clients"
-        }
-      ],
-      "custom_audiences": [
-        {
-          "id": "52545321010417",
-          "name": "Lookalike (US, 1%) - meta_us_middle+top-clients"
-        },
-        {
-          "id": "52545321732017",
-          "name": "Lookalike (US, 1%) - meta_us_top-clients"
-        },
-        {
-          "id": "52545321911017",
-          "name": "Lookalike (US, 1%) - meta-criteo_us_allusers"
-        },
-        {
-          "id": "52545321978017",
-          "name": "Lookalike (US, 1%) - meta-criteo_cvs_allusers"
-        },
-        {
-          "id": "52545322010817",
-          "name": "Lookalike (US, 1%) - meta_cvs_middle+top-clients"
-        },
-        {
-          "id": "52545322078217",
-          "name": "Lookalike (US, 1%) - meta_wg_middle+top-clients"
-        },
-        {
-          "id": "52545322143617",
-          "name": "Lookalike (US, 1%) - meta-criteo_wg_allusers"
-        },
-        {
-          "id": "52545322185817",
-          "name": "Lookalike (US, 1%) - meta_wg_top-clients"
-        },
-        {
-          "id": "52545322333417",
-          "name": "Lookalike (US, 1%) - meta_cvs_top-clients"
-        }
-      ],
-      "geo_locations": {
-        "countries": [
-          "US"
-        ],
-        "location_types": [
-          "home",
-          "recent"
-        ]
-      },
-      "locales": [
-        6
-      ],
-      "brand_safety_content_filter_levels": [
-        "FACEBOOK_RELAXED",
-        "AN_RELAXED"
-      ],
-      "targeting_automation": {
-        "advantage_audience": 0,
-        "individual_setting": {
-          "age": 0,
-          "gender": 1
-        }
-      }
-    },
-    "account_id": "308142134",
-    "influence_score": 0,
-    "is_influence": false,
-    "signals": [
-      "Creator name in ad_name: photobook"
-    ],
-    "creator_handle": "@photobook",
-    "creator_ig_id": null,
-    "confidence_label": "Non-influence"
-  },
-  {
-    "ad_id": "52562913669817",
-    "ad_name": "260128_static_saintval_Card_RetroPrints",
-    "adset_id": "52545333746817",
-    "adset_name": "US_Picta_Web_MOFU_LAL1%",
-    "campaign_id": "52543286501817",
-    "campaign_name": "PictaUS_Web_MOFU_Q126",
-    "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
-    "adset_start": "2025-12-18T05:29:09-0800",
-    "adset_end": "",
-    "impressions": 21,
-    "reach": 10,
-    "clicks": 1,
-    "spend": 0.24,
-    "ctr": 4.761905,
-    "cpm": 11.428571,
-    "purchases": 0.0,
-    "revenue": 0.0,
-    "roas": 0.0,
-    "video_avg_watch": 0.0,
-    "creative_id": "",
-    "creative_name": "",
-    "thumbnail_url": "",
-    "instagram_permalink": "",
-    "instagram_actor_id": "",
-    "source_instagram_media_id": "",
-    "effective_instagram_media_id": "",
-    "branded_content_sponsor_page_id": "",
-    "object_story_spec": {},
-    "targeting": {
-      "age_max": 64,
-      "age_min": 18,
-      "excluded_custom_audiences": [
-        {
-          "id": "52544481615217",
-          "name": "meta_wg_top-clients"
-        },
-        {
-          "id": "52544482862017",
-          "name": "meta-criteo_wg_allusers"
-        },
-        {
-          "id": "52544482922017",
-          "name": "meta_wg_middle+top-clients"
-        },
-        {
-          "id": "52544483991417",
-          "name": "meta_cvs_middle+top-clients"
-        },
-        {
-          "id": "52544484183017",
-          "name": "meta-criteo_cvs_allusers"
-        },
-        {
-          "id": "52544484762617",
-          "name": "meta_cvs_top-clients"
-        },
-        {
-          "id": "52544485715617",
-          "name": "meta-criteo_us_allusers"
-        },
-        {
-          "id": "52544485926217",
-          "name": "meta_us_top-clients"
-        },
-        {
-          "id": "52544486165617",
-          "name": "meta_us_middle+top-clients"
-        }
-      ],
-      "custom_audiences": [
-        {
-          "id": "52545321010417",
-          "name": "Lookalike (US, 1%) - meta_us_middle+top-clients"
-        },
-        {
-          "id": "52545321732017",
-          "name": "Lookalike (US, 1%) - meta_us_top-clients"
-        },
-        {
-          "id": "52545321911017",
-          "name": "Lookalike (US, 1%) - meta-criteo_us_allusers"
-        },
-        {
-          "id": "52545321978017",
-          "name": "Lookalike (US, 1%) - meta-criteo_cvs_allusers"
-        },
-        {
-          "id": "52545322010817",
-          "name": "Lookalike (US, 1%) - meta_cvs_middle+top-clients"
-        },
-        {
-          "id": "52545322078217",
-          "name": "Lookalike (US, 1%) - meta_wg_middle+top-clients"
-        },
-        {
-          "id": "52545322143617",
-          "name": "Lookalike (US, 1%) - meta-criteo_wg_allusers"
-        },
-        {
-          "id": "52545322185817",
-          "name": "Lookalike (US, 1%) - meta_wg_top-clients"
-        },
-        {
-          "id": "52545322333417",
-          "name": "Lookalike (US, 1%) - meta_cvs_top-clients"
-        }
-      ],
-      "geo_locations": {
-        "countries": [
-          "US"
-        ],
-        "location_types": [
-          "home",
-          "recent"
-        ]
-      },
-      "locales": [
-        6
-      ],
-      "brand_safety_content_filter_levels": [
-        "FACEBOOK_RELAXED",
-        "AN_RELAXED"
-      ],
-      "targeting_automation": {
-        "advantage_audience": 0,
-        "individual_setting": {
-          "age": 0,
-          "gender": 1
-        }
-      }
-    },
-    "account_id": "308142134",
-    "influence_score": 0,
-    "is_influence": false,
-    "signals": [
-      "Creator name in ad_name: retroprints"
-    ],
-    "creator_handle": "@retroprints",
-    "creator_ig_id": null,
-    "confidence_label": "Non-influence"
-  },
-  {
-    "ad_id": "52562913670017",
-    "ad_name": "260128_static_saintval_Bundle",
-    "adset_id": "52545333746817",
-    "adset_name": "US_Picta_Web_MOFU_LAL1%",
-    "campaign_id": "52543286501817",
-    "campaign_name": "PictaUS_Web_MOFU_Q126",
-    "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
-    "adset_start": "2025-12-18T05:29:09-0800",
-    "adset_end": "",
-    "impressions": 4,
-    "reach": 3,
-    "clicks": 0,
-    "spend": 0.1,
-    "ctr": 0.0,
-    "cpm": 25.0,
-    "purchases": 0.0,
-    "revenue": 0.0,
-    "roas": 0.0,
-    "video_avg_watch": 0.0,
-    "creative_id": "",
-    "creative_name": "",
-    "thumbnail_url": "",
-    "instagram_permalink": "",
-    "instagram_actor_id": "",
-    "source_instagram_media_id": "",
-    "effective_instagram_media_id": "",
-    "branded_content_sponsor_page_id": "",
-    "object_story_spec": {},
-    "targeting": {
-      "age_max": 64,
-      "age_min": 18,
-      "excluded_custom_audiences": [
-        {
-          "id": "52544481615217",
-          "name": "meta_wg_top-clients"
-        },
-        {
-          "id": "52544482862017",
-          "name": "meta-criteo_wg_allusers"
-        },
-        {
-          "id": "52544482922017",
-          "name": "meta_wg_middle+top-clients"
-        },
-        {
-          "id": "52544483991417",
-          "name": "meta_cvs_middle+top-clients"
-        },
-        {
-          "id": "52544484183017",
-          "name": "meta-criteo_cvs_allusers"
-        },
-        {
-          "id": "52544484762617",
-          "name": "meta_cvs_top-clients"
-        },
-        {
-          "id": "52544485715617",
-          "name": "meta-criteo_us_allusers"
-        },
-        {
-          "id": "52544485926217",
-          "name": "meta_us_top-clients"
-        },
-        {
-          "id": "52544486165617",
-          "name": "meta_us_middle+top-clients"
-        }
-      ],
-      "custom_audiences": [
-        {
-          "id": "52545321010417",
-          "name": "Lookalike (US, 1%) - meta_us_middle+top-clients"
-        },
-        {
-          "id": "52545321732017",
-          "name": "Lookalike (US, 1%) - meta_us_top-clients"
-        },
-        {
-          "id": "52545321911017",
-          "name": "Lookalike (US, 1%) - meta-criteo_us_allusers"
-        },
-        {
-          "id": "52545321978017",
-          "name": "Lookalike (US, 1%) - meta-criteo_cvs_allusers"
-        },
-        {
-          "id": "52545322010817",
-          "name": "Lookalike (US, 1%) - meta_cvs_middle+top-clients"
-        },
-        {
-          "id": "52545322078217",
-          "name": "Lookalike (US, 1%) - meta_wg_middle+top-clients"
-        },
-        {
-          "id": "52545322143617",
-          "name": "Lookalike (US, 1%) - meta-criteo_wg_allusers"
-        },
-        {
-          "id": "52545322185817",
-          "name": "Lookalike (US, 1%) - meta_wg_top-clients"
-        },
-        {
-          "id": "52545322333417",
-          "name": "Lookalike (US, 1%) - meta_cvs_top-clients"
-        }
-      ],
-      "geo_locations": {
-        "countries": [
-          "US"
-        ],
-        "location_types": [
-          "home",
-          "recent"
-        ]
-      },
-      "locales": [
-        6
-      ],
-      "brand_safety_content_filter_levels": [
-        "FACEBOOK_RELAXED",
-        "AN_RELAXED"
-      ],
-      "targeting_automation": {
-        "advantage_audience": 0,
-        "individual_setting": {
-          "age": 0,
-          "gender": 1
-        }
-      }
-    },
-    "account_id": "308142134",
-    "influence_score": 0,
-    "is_influence": false,
-    "signals": [
-      "Creator name in ad_name: bundle"
-    ],
-    "creator_handle": "@bundle",
-    "creator_ig_id": null,
-    "confidence_label": "Non-influence"
-  },
-  {
     "ad_id": "52563006607017",
     "ad_name": "260128_static_saintval_Photobook5",
     "adset_id": "52552878148017",
@@ -4135,19 +2485,19 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-01-05T07:27:10-0800",
     "adset_end": "",
-    "impressions": 6866,
-    "reach": 4649,
-    "clicks": 53,
-    "spend": 63.45,
-    "ctr": 0.77192,
-    "cpm": 9.241188,
-    "purchases": 5.0,
-    "revenue": 94.34,
-    "roas": 1.48684,
+    "impressions": 10,
+    "reach": 9,
+    "clicks": 0,
+    "spend": 0.17,
+    "ctr": 0.0,
+    "cpm": 17.0,
+    "purchases": 2.0,
+    "revenue": 31.7,
+    "roas": 186.470588,
     "video_avg_watch": 0.0,
     "creative_id": "",
     "creative_name": "",
@@ -4208,19 +2558,19 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-01-05T07:27:10-0800",
     "adset_end": "",
-    "impressions": 7784,
-    "reach": 5053,
-    "clicks": 56,
-    "spend": 73.61,
-    "ctr": 0.719424,
-    "cpm": 9.456578,
-    "purchases": 14.0,
-    "revenue": 274.49,
-    "roas": 3.728977,
+    "impressions": 12,
+    "reach": 12,
+    "clicks": 0,
+    "spend": 0.1,
+    "ctr": 0.0,
+    "cpm": 8.333333,
+    "purchases": 7.0,
+    "revenue": 86.24,
+    "roas": 862.4,
     "video_avg_watch": 0.0,
     "creative_id": "",
     "creative_name": "",
@@ -4281,20 +2631,20 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-06T07:41:08-0800",
     "adset_end": "",
-    "impressions": 36249,
-    "reach": 19280,
-    "clicks": 397,
-    "spend": 259.96,
-    "ctr": 1.095203,
-    "cpm": 7.171508,
-    "purchases": 61.0,
-    "revenue": 1340.83,
-    "roas": 5.157832,
-    "video_avg_watch": 3.0,
+    "impressions": 38,
+    "reach": 38,
+    "clicks": 1,
+    "spend": 0.22,
+    "ctr": 2.631579,
+    "cpm": 5.789474,
+    "purchases": 17.0,
+    "revenue": 467.64,
+    "roas": 2125.636364,
+    "video_avg_watch": 2.0,
     "creative_id": "",
     "creative_name": "",
     "thumbnail_url": "",
@@ -4351,8 +2701,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:59:26-0800",
     "adset_end": "",
     "impressions": 2224,
@@ -4467,8 +2817,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:59:26-0800",
     "adset_end": "",
     "impressions": 8885,
@@ -4583,8 +2933,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:59:26-0800",
     "adset_end": "",
     "impressions": 1763,
@@ -4699,8 +3049,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:59:26-0800",
     "adset_end": "",
     "impressions": 40178,
@@ -4815,8 +3165,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:59:26-0800",
     "adset_end": "",
     "impressions": 17080,
@@ -4931,8 +3281,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:59:26-0800",
     "adset_end": "",
     "impressions": 21442,
@@ -5047,8 +3397,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:59:26-0800",
     "adset_end": "",
     "impressions": 163503,
@@ -5163,8 +3513,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:59:26-0800",
     "adset_end": "",
     "impressions": 25074,
@@ -5279,8 +3629,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:59:26-0800",
     "adset_end": "",
     "impressions": 1747,
@@ -5395,8 +3745,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:59:26-0800",
     "adset_end": "",
     "impressions": 6716,
@@ -5511,8 +3861,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:59:26-0800",
     "adset_end": "",
     "impressions": 48193,
@@ -5627,8 +3977,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:59:26-0800",
     "adset_end": "",
     "impressions": 2156,
@@ -5743,8 +4093,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:59:26-0800",
     "adset_end": "",
     "impressions": 15047,
@@ -5859,8 +4209,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:59:26-0800",
     "adset_end": "",
     "impressions": 111376,
@@ -5975,8 +4325,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:25:49-0800",
     "adset_end": "",
     "impressions": 2555,
@@ -6141,8 +4491,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:25:49-0800",
     "adset_end": "",
     "impressions": 9435,
@@ -6307,8 +4657,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:25:49-0800",
     "adset_end": "",
     "impressions": 81550,
@@ -6473,8 +4823,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:25:49-0800",
     "adset_end": "",
     "impressions": 8795,
@@ -6639,8 +4989,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:25:49-0800",
     "adset_end": "",
     "impressions": 221355,
@@ -6805,8 +5155,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:25:49-0800",
     "adset_end": "",
     "impressions": 8811,
@@ -6971,8 +5321,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:25:49-0800",
     "adset_end": "",
     "impressions": 84675,
@@ -7137,8 +5487,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:25:49-0800",
     "adset_end": "",
     "impressions": 25629,
@@ -7303,8 +5653,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:25:49-0800",
     "adset_end": "",
     "impressions": 2191,
@@ -7469,8 +5819,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:25:49-0800",
     "adset_end": "",
     "impressions": 116953,
@@ -7635,8 +5985,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:25:49-0800",
     "adset_end": "",
     "impressions": 90353,
@@ -7801,8 +6151,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:25:49-0800",
     "adset_end": "",
     "impressions": 15350,
@@ -7967,8 +6317,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:25:49-0800",
     "adset_end": "",
     "impressions": 28331,
@@ -8133,8 +6483,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:25:49-0800",
     "adset_end": "",
     "impressions": 36534,
@@ -8299,8 +6649,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-01-05T07:24:17-0800",
     "adset_end": "",
     "impressions": 339,
@@ -8372,8 +6722,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-01-05T07:24:17-0800",
     "adset_end": "",
     "impressions": 6,
@@ -8445,8 +6795,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-01-05T07:24:17-0800",
     "adset_end": "",
     "impressions": 4,
@@ -8518,8 +6868,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-01-05T07:24:17-0800",
     "adset_end": "",
     "impressions": 2,
@@ -8591,8 +6941,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-01-05T07:24:17-0800",
     "adset_end": "",
     "impressions": 4,
@@ -8664,8 +7014,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T12:55:31-0800",
     "adset_end": "",
     "impressions": 10547,
@@ -8737,8 +7087,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T12:55:31-0800",
     "adset_end": "",
     "impressions": 4307,
@@ -8810,8 +7160,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T12:55:31-0800",
     "adset_end": "",
     "impressions": 103513,
@@ -8883,8 +7233,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T12:55:31-0800",
     "adset_end": "",
     "impressions": 9568,
@@ -8956,8 +7306,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T12:55:31-0800",
     "adset_end": "",
     "impressions": 161025,
@@ -9029,8 +7379,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T12:55:31-0800",
     "adset_end": "",
     "impressions": 45851,
@@ -9102,8 +7452,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T12:55:31-0800",
     "adset_end": "",
     "impressions": 3938,
@@ -9175,8 +7525,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T12:55:31-0800",
     "adset_end": "",
     "impressions": 3766,
@@ -9248,8 +7598,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T12:55:31-0800",
     "adset_end": "",
     "impressions": 259960,
@@ -9321,8 +7671,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T12:55:31-0800",
     "adset_end": "",
     "impressions": 11943,
@@ -9394,8 +7744,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T12:55:31-0800",
     "adset_end": "",
     "impressions": 9625,
@@ -9467,8 +7817,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T12:55:31-0800",
     "adset_end": "",
     "impressions": 7601,
@@ -9540,8 +7890,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T12:55:31-0800",
     "adset_end": "",
     "impressions": 37624,
@@ -9613,8 +7963,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T12:55:31-0800",
     "adset_end": "",
     "impressions": 22434,
@@ -9686,8 +8036,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-19T02:50:09-0800",
     "adset_end": "",
     "impressions": 107418,
@@ -9765,8 +8115,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-19T02:50:09-0800",
     "adset_end": "",
     "impressions": 110788,
@@ -9844,8 +8194,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-19T02:50:09-0800",
     "adset_end": "",
     "impressions": 641757,
@@ -9923,8 +8273,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-06T07:41:08-0800",
     "adset_end": "",
     "impressions": 456563,
@@ -9993,8 +8343,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-03-09T09:45:12-0700",
     "adset_end": "",
     "impressions": 242969,
@@ -10073,8 +8423,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-03-09T09:45:12-0700",
     "adset_end": "",
     "impressions": 93094,
@@ -10153,8 +8503,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-03-09T09:45:12-0700",
     "adset_end": "",
     "impressions": 272679,
@@ -10233,8 +8583,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:25:49-0800",
     "adset_end": "",
     "impressions": 900,
@@ -10400,8 +8750,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:25:49-0800",
     "adset_end": "",
     "impressions": 22412,
@@ -10566,8 +8916,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:25:49-0800",
     "adset_end": "",
     "impressions": 174,
@@ -10732,8 +9082,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:25:49-0800",
     "adset_end": "",
     "impressions": 35891,
@@ -10899,8 +9249,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:25:49-0800",
     "adset_end": "",
     "impressions": 79109,
@@ -11065,8 +9415,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:25:49-0800",
     "adset_end": "",
     "impressions": 1903,
@@ -11231,8 +9581,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:25:49-0800",
     "adset_end": "",
     "impressions": 5582,
@@ -11398,8 +9748,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:25:49-0800",
     "adset_end": "",
     "impressions": 43833,
@@ -11564,8 +9914,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:25:49-0800",
     "adset_end": "",
     "impressions": 36873,
@@ -11730,8 +10080,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T12:55:31-0800",
     "adset_end": "",
     "impressions": 237,
@@ -11804,8 +10154,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T12:55:31-0800",
     "adset_end": "",
     "impressions": 291,
@@ -11877,8 +10227,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T12:55:31-0800",
     "adset_end": "",
     "impressions": 12837,
@@ -11951,8 +10301,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T12:55:31-0800",
     "adset_end": "",
     "impressions": 94037,
@@ -12024,8 +10374,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T12:55:31-0800",
     "adset_end": "",
     "impressions": 296,
@@ -12097,8 +10447,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T12:55:31-0800",
     "adset_end": "",
     "impressions": 59542,
@@ -12170,8 +10520,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T12:55:31-0800",
     "adset_end": "",
     "impressions": 37675,
@@ -12243,8 +10593,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T12:55:31-0800",
     "adset_end": "",
     "impressions": 525,
@@ -12317,8 +10667,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T12:55:31-0800",
     "adset_end": "",
     "impressions": 14161,
@@ -12390,8 +10740,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:59:26-0800",
     "adset_end": "",
     "impressions": 14178,
@@ -12506,8 +10856,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:59:26-0800",
     "adset_end": "",
     "impressions": 17752,
@@ -12622,8 +10972,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:59:26-0800",
     "adset_end": "",
     "impressions": 621,
@@ -12738,8 +11088,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:59:26-0800",
     "adset_end": "",
     "impressions": 654,
@@ -12854,8 +11204,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:59:26-0800",
     "adset_end": "",
     "impressions": 34324,
@@ -12970,8 +11320,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:59:26-0800",
     "adset_end": "",
     "impressions": 1447,
@@ -13087,8 +11437,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:59:26-0800",
     "adset_end": "",
     "impressions": 1152,
@@ -13203,8 +11553,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:59:26-0800",
     "adset_end": "",
     "impressions": 609,
@@ -13320,8 +11670,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-02-16T01:59:26-0800",
     "adset_end": "",
     "impressions": 369,
@@ -13437,8 +11787,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-01T02:24:46-0700",
     "adset_end": "",
     "impressions": 96000,
@@ -13551,8 +11901,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-01T02:50:57-0700",
     "adset_end": "",
     "impressions": 55073,
@@ -13627,8 +11977,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-01T02:56:24-0700",
     "adset_end": "",
     "impressions": 99799,
@@ -13706,8 +12056,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-01T06:07:57-0700",
     "adset_end": "",
     "impressions": 3977,
@@ -13786,8 +12136,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-01T06:07:57-0700",
     "adset_end": "",
     "impressions": 16090,
@@ -13866,8 +12216,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-01T06:07:57-0700",
     "adset_end": "",
     "impressions": 11211,
@@ -13946,8 +12296,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-01T06:07:57-0700",
     "adset_end": "",
     "impressions": 68977,
@@ -14026,8 +12376,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-01T06:24:24-0700",
     "adset_end": "",
     "impressions": 1175,
@@ -14106,8 +12456,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-01T06:24:24-0700",
     "adset_end": "",
     "impressions": 1275,
@@ -14186,8 +12536,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-01T06:24:24-0700",
     "adset_end": "",
     "impressions": 4390,
@@ -14266,8 +12616,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-01T06:24:24-0700",
     "adset_end": "",
     "impressions": 987,
@@ -14346,8 +12696,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-01T06:24:24-0700",
     "adset_end": "",
     "impressions": 925,
@@ -14426,8 +12776,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-01T06:24:24-0700",
     "adset_end": "",
     "impressions": 1782,
@@ -14506,8 +12856,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-01T06:24:24-0700",
     "adset_end": "",
     "impressions": 89244,
@@ -14586,8 +12936,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-01T10:48:13-0700",
     "adset_end": "",
     "impressions": 22064,
@@ -14665,8 +13015,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-01T10:48:13-0700",
     "adset_end": "",
     "impressions": 52734,
@@ -14744,8 +13094,8 @@
     "campaign_id": "52552876398017",
     "campaign_name": "PictaUS_Web_TOFU_Q125",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-01T10:48:13-0700",
     "adset_end": "",
     "impressions": 4186,
@@ -14823,8 +13173,8 @@
     "campaign_id": "52599797510817",
     "campaign_name": "PictaUS_Web_TOFU_Q2026",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-07T07:41:44-0700",
     "adset_end": "",
     "impressions": 1672,
@@ -14903,8 +13253,8 @@
     "campaign_id": "52599797510817",
     "campaign_name": "PictaUS_Web_TOFU_Q2026",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-07T07:41:44-0700",
     "adset_end": "",
     "impressions": 2415,
@@ -14983,8 +13333,8 @@
     "campaign_id": "52599797510817",
     "campaign_name": "PictaUS_Web_TOFU_Q2026",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-07T07:41:44-0700",
     "adset_end": "",
     "impressions": 2427,
@@ -15063,8 +13413,8 @@
     "campaign_id": "52599797510817",
     "campaign_name": "PictaUS_Web_TOFU_Q2026",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-07T07:41:44-0700",
     "adset_end": "",
     "impressions": 1213,
@@ -15143,8 +13493,8 @@
     "campaign_id": "52599797510817",
     "campaign_name": "PictaUS_Web_TOFU_Q2026",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-07T07:41:44-0700",
     "adset_end": "",
     "impressions": 409,
@@ -15223,8 +13573,8 @@
     "campaign_id": "52599797510817",
     "campaign_name": "PictaUS_Web_TOFU_Q2026",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-07T07:41:44-0700",
     "adset_end": "",
     "impressions": 1218,
@@ -15303,8 +13653,8 @@
     "campaign_id": "52599797510817",
     "campaign_name": "PictaUS_Web_TOFU_Q2026",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-07T07:41:53-0700",
     "adset_end": "",
     "impressions": 44811,
@@ -15382,8 +13732,8 @@
     "campaign_id": "52599797510817",
     "campaign_name": "PictaUS_Web_TOFU_Q2026",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-07T07:41:44-0700",
     "adset_end": "",
     "impressions": 529,
@@ -15462,8 +13812,8 @@
     "campaign_id": "52599797510817",
     "campaign_name": "PictaUS_Web_TOFU_Q2026",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-07T07:48:41-0700",
     "adset_end": "",
     "impressions": 35708,
@@ -15576,8 +13926,8 @@
     "campaign_id": "52599797510817",
     "campaign_name": "PictaUS_Web_TOFU_Q2026",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-07T07:41:44-0700",
     "adset_end": "",
     "impressions": 3327,
@@ -15656,8 +14006,8 @@
     "campaign_id": "52599797510817",
     "campaign_name": "PictaUS_Web_TOFU_Q2026",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-07T07:41:44-0700",
     "adset_end": "",
     "impressions": 1880,
@@ -15736,8 +14086,8 @@
     "campaign_id": "52599797510817",
     "campaign_name": "PictaUS_Web_TOFU_Q2026",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-07T07:41:44-0700",
     "adset_end": "",
     "impressions": 25628,
@@ -15816,8 +14166,8 @@
     "campaign_id": "52599797510817",
     "campaign_name": "PictaUS_Web_TOFU_Q2026",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-07T07:41:44-0700",
     "adset_end": "",
     "impressions": 1369,
@@ -15896,8 +14246,8 @@
     "campaign_id": "52599797510817",
     "campaign_name": "PictaUS_Web_TOFU_Q2026",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-07T07:41:44-0700",
     "adset_end": "",
     "impressions": 1384,
@@ -15976,8 +14326,8 @@
     "campaign_id": "52599797510817",
     "campaign_name": "PictaUS_Web_TOFU_Q2026",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-07T07:41:44-0700",
     "adset_end": "",
     "impressions": 590,
@@ -16056,8 +14406,8 @@
     "campaign_id": "52599797510817",
     "campaign_name": "PictaUS_Web_TOFU_Q2026",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-07T07:41:44-0700",
     "adset_end": "",
     "impressions": 2178,
@@ -16136,8 +14486,8 @@
     "campaign_id": "52599797510817",
     "campaign_name": "PictaUS_Web_TOFU_Q2026",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-07T07:41:44-0700",
     "adset_end": "",
     "impressions": 466,
@@ -16216,8 +14566,8 @@
     "campaign_id": "52599797510817",
     "campaign_name": "PictaUS_Web_TOFU_Q2026",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-07T07:41:44-0700",
     "adset_end": "",
     "impressions": 1556,
@@ -16296,8 +14646,8 @@
     "campaign_id": "52599797510817",
     "campaign_name": "PictaUS_Web_TOFU_Q2026",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-07T07:41:44-0700",
     "adset_end": "",
     "impressions": 1760,
@@ -16376,8 +14726,8 @@
     "campaign_id": "52599797510817",
     "campaign_name": "PictaUS_Web_TOFU_Q2026",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-07T07:41:44-0700",
     "adset_end": "",
     "impressions": 1601,
@@ -16456,8 +14806,8 @@
     "campaign_id": "52599797510817",
     "campaign_name": "PictaUS_Web_TOFU_Q2026",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-07T07:41:44-0700",
     "adset_end": "",
     "impressions": 22919,
@@ -16536,8 +14886,8 @@
     "campaign_id": "52599797510817",
     "campaign_name": "PictaUS_Web_TOFU_Q2026",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-07T07:41:44-0700",
     "adset_end": "",
     "impressions": 1049,
@@ -16616,8 +14966,8 @@
     "campaign_id": "52604427667817",
     "campaign_name": "PictaUS_Web_Test_PB_Q226",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-14T09:05:33-0700",
     "adset_end": "",
     "impressions": 10897,
@@ -16689,8 +15039,8 @@
     "campaign_id": "52604427667817",
     "campaign_name": "PictaUS_Web_Test_PB_Q226",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-14T09:05:33-0700",
     "adset_end": "",
     "impressions": 5024,
@@ -16762,8 +15112,8 @@
     "campaign_id": "52604427667817",
     "campaign_name": "PictaUS_Web_Test_PB_Q226",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-14T09:05:33-0700",
     "adset_end": "",
     "impressions": 26999,
@@ -16835,8 +15185,8 @@
     "campaign_id": "52604427667817",
     "campaign_name": "PictaUS_Web_Test_PB_Q226",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-14T09:05:33-0700",
     "adset_end": "",
     "impressions": 10312,
@@ -16908,8 +15258,8 @@
     "campaign_id": "52604427667817",
     "campaign_name": "PictaUS_Web_Test_PB_Q226",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-14T09:05:33-0700",
     "adset_end": "",
     "impressions": 15785,
@@ -16981,8 +15331,8 @@
     "campaign_id": "52608727410217",
     "campaign_name": "PictaUS_Web_Test_PB_Q226_traffic",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-20T07:45:05-0700",
     "adset_end": "",
     "impressions": 814,
@@ -17046,8 +15396,8 @@
     "campaign_id": "52608727410217",
     "campaign_name": "PictaUS_Web_Test_PB_Q226_traffic",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-20T07:45:05-0700",
     "adset_end": "",
     "impressions": 3606,
@@ -17111,8 +15461,8 @@
     "campaign_id": "52608727410217",
     "campaign_name": "PictaUS_Web_Test_PB_Q226_traffic",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-20T07:45:05-0700",
     "adset_end": "",
     "impressions": 32341,
@@ -17176,8 +15526,8 @@
     "campaign_id": "52608727410217",
     "campaign_name": "PictaUS_Web_Test_PB_Q226_traffic",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-20T07:45:05-0700",
     "adset_end": "",
     "impressions": 24559,
@@ -17241,8 +15591,8 @@
     "campaign_id": "52608727410217",
     "campaign_name": "PictaUS_Web_Test_PB_Q226_traffic",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-20T07:45:05-0700",
     "adset_end": "",
     "impressions": 15285,
@@ -17306,8 +15656,8 @@
     "campaign_id": "52610387304017",
     "campaign_name": "PictaUS_SocialMedia_Test_Q226_engagement",
     "status": "ACTIVE",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-04-22T06:14:37-0700",
     "adset_end": "",
     "impressions": 40618,
@@ -17370,8 +15720,8 @@
     "campaign_id": "120244861175730268",
     "campaign_name": "CVS Android_US_Apppurchase_260326",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-03-26T12:05:32-0500",
     "adset_end": "",
     "impressions": 80,
@@ -17386,7 +15736,7 @@
     "video_avg_watch": 0.0,
     "creative_id": "832003799917952",
     "creative_name": "{{product.name}} 2026-03-26-29185444b81ac622754948dbd60a37e6",
-    "thumbnail_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t45.1600-4/656043937_122241964700126722_6741910752655871284_n.jpg?_nc_cat=100&ccb=1-7&_nc_ohc=D52qR1sWAPcQ7kNvwHrs5gs&_nc_oc=Adrevj4dWM0bTxqjcuqbTlBJ1I8UZ0k9MRtluetezvu-11SUz5RnKggYOP1D2WYNDvI&_nc_zt=1&_nc_ht=scontent-atl3-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=nJkVU7ikv_ngKgAnOyrsjg&_nc_tpa=Q5bMBQGL1NsxojJn8DZMdaIvl1SdjIq6pLUjfMoCcFuXf2__EVwWgyRziq_16YzWa_gjujvzM1qv&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af7zjiMe8nlcYoWcj_ikPGF33SIlYBEgM2zdS_OFsnWhKA&oe=6A0E2A08",
+    "thumbnail_url": "https://scontent-ord5-3.xx.fbcdn.net/v/t45.1600-4/656043937_122241964700126722_6741910752655871284_n.jpg?_nc_cat=100&ccb=1-7&_nc_ohc=D52qR1sWAPcQ7kNvwHYt2Y1&_nc_oc=AdqZeQtVyMcitEvcD8dkIGRRvaJMwR729hQnbKjwQvZZcpgjb841HaL3hcIfInHIlZQ&_nc_zt=1&_nc_ht=scontent-ord5-3.xx&edm=AOgd6ZUEAAAA&_nc_gid=2R0Dg1VgwxR_MbppDjS-sQ&_nc_tpa=Q5bMBQEQRKAeWO4tsfSb2Gr_sj89_5NzjRXYiT6V1hSPC2RLIDqmB2hLvEkZN7Hmerb57O4T35TJ&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af7vSkHZeja7XrTGUv8MhzKuGJ2AjrAWsG_HOxEGuf4wJg&oe=6A0F7B88",
     "instagram_permalink": "https://www.instagram.com/p/DWW3n9jgMBY/",
     "instagram_actor_id": "",
     "source_instagram_media_id": "",
@@ -17478,8 +15828,8 @@
     "campaign_id": "120244861175730268",
     "campaign_name": "CVS Android_US_Apppurchase_260326",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-03-26T12:05:32-0500",
     "adset_end": "",
     "impressions": 1559,
@@ -17494,7 +15844,7 @@
     "video_avg_watch": 0.0,
     "creative_id": "2368640430286805",
     "creative_name": "{{product.name}} 2026-03-26-7381d41915f4b9ff2b5cb4d9360f5bf8",
-    "thumbnail_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t45.1600-4/659278785_122241964922126722_6383024134686739200_n.jpg?_nc_cat=102&ccb=1-7&_nc_ohc=60R8Pspfah4Q7kNvwEbLgSx&_nc_oc=AdowLzeAYxYwlrsEhNKB3rah-uYhlwkmrCJsZKeSh62ZUSpPiksd3p9mpk8NHElyyVk&_nc_zt=1&_nc_ht=scontent-atl3-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=nJkVU7ikv_ngKgAnOyrsjg&_nc_tpa=Q5bMBQEsWJ03Jt3qziGPPk2DNWI3h6IUyXQex0SnoVkDY90z36s8K5De6C0Y2uPRWP5a_U-eq7um&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af4FC58R78D8dHNBTv1490Ap0fc3pmrAoZFyPDCpzilHuQ&oe=6A0E3252",
+    "thumbnail_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t45.1600-4/659278785_122241964922126722_6383024134686739200_n.jpg?_nc_cat=102&ccb=1-7&_nc_ohc=60R8Pspfah4Q7kNvwHE7pry&_nc_oc=AdrLXWnyONYma-jUpYNr9KLKmYDvQzplxR3bbSMxAXaEjUuGHN0dY3cmr7eDKGpjk4g&_nc_zt=1&_nc_ht=scontent-ord5-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=2R0Dg1VgwxR_MbppDjS-sQ&_nc_tpa=Q5bMBQGD0Wpvif81m47I9wlrmN4Xc5q4f3gQ5QVR0ZkvHxsaOU15KokkGuVL0o8w-NJGDAgSswqG&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af4rBsWCq9s8kdnnnRqTQgIyuob3VBEUf0FrauZRA2Y9sA&oe=6A0F83D2",
     "instagram_permalink": "https://www.instagram.com/p/DWW3o6NABOi/",
     "instagram_actor_id": "",
     "source_instagram_media_id": "",
@@ -17586,8 +15936,8 @@
     "campaign_id": "120244861175730268",
     "campaign_name": "CVS Android_US_Apppurchase_260326",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-03-26T12:05:32-0500",
     "adset_end": "",
     "impressions": 11192,
@@ -17602,7 +15952,7 @@
     "video_avg_watch": 0.0,
     "creative_id": "1959129314808551",
     "creative_name": "{{product.name}} 2026-03-26-26c4079ecc5081aa1fd8cc03e36904e9",
-    "thumbnail_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t45.1600-4/658317105_122241965078126722_6594093080411093198_n.jpg?_nc_cat=102&ccb=1-7&_nc_ohc=sN78M4u45voQ7kNvwHIVj-G&_nc_oc=AdoGKtx9dQZcWj0k6YzKW2q8P1yg4sup0JQkkx_1N9W6zwWzAP3thWLDG3m3pNbHrPg&_nc_zt=1&_nc_ht=scontent-atl3-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=nJkVU7ikv_ngKgAnOyrsjg&_nc_tpa=Q5bMBQEcW-hLv2FOdOeygEhseLUyqmm9lNleXHxcLLZ__qkZ6qGS7PRkls-cU4Jc7tv9Q86n4nVC&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af4SAGNwif1nswJIxmKnshSBDPqW3mON8uN_kJRuHTbTbA&oe=6A0E2BAD",
+    "thumbnail_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t45.1600-4/658317105_122241965078126722_6594093080411093198_n.jpg?_nc_cat=102&ccb=1-7&_nc_ohc=sN78M4u45voQ7kNvwFRW8k5&_nc_oc=Adobw55JVMLS7RLB8hie28ktEqE9_flIQk1IIAvF0uBBxfrUtTPV8XcQvc-4ETG2SQs&_nc_zt=1&_nc_ht=scontent-ord5-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=2R0Dg1VgwxR_MbppDjS-sQ&_nc_tpa=Q5bMBQF16fj-k83B6r8rIlT4Ovjf44Fmxq2s3yjXUV2HiCZeXVkmO4I1pSyvwejEhMRMj3sQwoyQ&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af57bnEuAlfqevpnwu1ZlxWgSPFmpTAeNs5vr0HCDTkV5Q&oe=6A0F7D2D",
     "instagram_permalink": "https://www.instagram.com/p/DWW3QbQADoF/",
     "instagram_actor_id": "",
     "source_instagram_media_id": "",
@@ -17694,8 +16044,8 @@
     "campaign_id": "120244861175730268",
     "campaign_name": "CVS Android_US_Apppurchase_260326",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-03-26T12:05:32-0500",
     "adset_end": "",
     "impressions": 1008,
@@ -17710,7 +16060,7 @@
     "video_avg_watch": 0.0,
     "creative_id": "925588923723335",
     "creative_name": "{{product.name}} 2026-03-26-42ecac51962faf25310178dba938f5df",
-    "thumbnail_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t45.1600-4/655690510_122241966356126722_3977005498480140087_n.jpg?_nc_cat=100&ccb=1-7&_nc_ohc=Q-4dV2BEnpoQ7kNvwEeebHT&_nc_oc=AdqxBKClfVLdokoQW5FGTfIqzboMsr8lhRJTvDAadimWb7LqKFVgsXnVgxl6iTqFi5k&_nc_zt=1&_nc_ht=scontent-atl3-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=nJkVU7ikv_ngKgAnOyrsjg&_nc_tpa=Q5bMBQHaoezheLdDsTVoE_N7-pB63MzyAtpltBdqeHpCDbuLlbzepfhZmjHkgm2i86C1pirUlY26&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af5KQqLjiDd8huPy_1k1eZ4Y8ddWV1gdLeYngX1WguZxvQ&oe=6A0E319B",
+    "thumbnail_url": "https://scontent-ord5-3.xx.fbcdn.net/v/t45.1600-4/655690510_122241966356126722_3977005498480140087_n.jpg?_nc_cat=100&ccb=1-7&_nc_ohc=Q-4dV2BEnpoQ7kNvwEx8f39&_nc_oc=AdrSrl5EnChOwFvhRDbhI6l6jTlQA6uZzA5gtfHtZ74EY3sHkrDKbXdNIRT16FTI4e0&_nc_zt=1&_nc_ht=scontent-ord5-3.xx&edm=AOgd6ZUEAAAA&_nc_gid=2R0Dg1VgwxR_MbppDjS-sQ&_nc_tpa=Q5bMBQG9sfk--aIRwI33Mw4WLt1rA-F6-FAck0plLQh-hisKaBQB9nQjFBdFnlCeJF7A8xSgkK7C&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af6iTPawatj1C04_viwoNEun4HpCVBk1l0tf5XmDBCk65Q&oe=6A0F831B",
     "instagram_permalink": "https://www.instagram.com/p/DWW3ofVAEPg/",
     "instagram_actor_id": "",
     "source_instagram_media_id": "",
@@ -17802,8 +16152,8 @@
     "campaign_id": "120244861175730268",
     "campaign_name": "CVS Android_US_Apppurchase_260326",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-03-26T12:34:57-0500",
     "adset_end": "",
     "impressions": 1148,
@@ -17818,7 +16168,7 @@
     "video_avg_watch": 0.0,
     "creative_id": "5537078963156264",
     "creative_name": "{{product.name}} 2026-03-26-b0f24b2b9ce50b7c8350722a64cf1b48",
-    "thumbnail_url": "https://scontent-atl3-3.xx.fbcdn.net/v/t45.1600-4/660685592_122241968792126722_1659173620018061843_n.jpg?_nc_cat=107&ccb=1-7&_nc_ohc=8jClxOfl49QQ7kNvwEmcSbR&_nc_oc=AdqdcBC9t7TJCa5H8Z6v86XfJm164A-8J0h0MNm062XrfG5lW2UE_vze2cG46FK4NQw&_nc_zt=1&_nc_ht=scontent-atl3-3.xx&edm=AOgd6ZUEAAAA&_nc_gid=nJkVU7ikv_ngKgAnOyrsjg&_nc_tpa=Q5bMBQFanuA7ER0sc2lLEIx726YrL0brsLPmirgq_lc9BHCfgJX4eoXBo1bBoPxr3qO9Sf8yNtBO&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af5OublPuTkjjrPk2CYiDLdD-cmoaypSQ_UxtdghnI8sSQ&oe=6A0E27BB",
+    "thumbnail_url": "https://scontent-ord5-3.xx.fbcdn.net/v/t45.1600-4/660685592_122241968792126722_1659173620018061843_n.jpg?_nc_cat=107&ccb=1-7&_nc_ohc=LrN1fgEYlW0Q7kNvwEyf7De&_nc_oc=AdqNGAXUhdU4JvJ1isG56f4Mjf5Tfx1nxQW410vu0GKqnzJl326KMe97QG9rRneWKm4&_nc_zt=1&_nc_ht=scontent-ord5-3.xx&edm=AOgd6ZUEAAAA&_nc_gid=2R0Dg1VgwxR_MbppDjS-sQ&_nc_tpa=Q5bMBQFpxldJMOLxto9kig9sxNA7FDM0o4OwhH-zyaQTQ4ndanwvWbmCZfZ37KeZ98Sl-6k67p_M&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af4yhjgjAGCcHZtYavobYCJqkhtZSLr6uT2iqV85uITQ1g&oe=6A0F793B",
     "instagram_permalink": "https://www.instagram.com/p/DWW3JkLAKAy/",
     "instagram_actor_id": "",
     "source_instagram_media_id": "",
@@ -17910,8 +16260,8 @@
     "campaign_id": "120244861175730268",
     "campaign_name": "CVS Android_US_Apppurchase_260326",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-03-26T12:34:57-0500",
     "adset_end": "",
     "impressions": 8,
@@ -17926,7 +16276,7 @@
     "video_avg_watch": 0.0,
     "creative_id": "26509348025421487",
     "creative_name": "{{product.name}} 2026-03-26-eef533604497ba25048df515c16d7c0b",
-    "thumbnail_url": "https://scontent-atl3-1.xx.fbcdn.net/v/t45.1600-4/656778780_122241967940126722_7764413350850755767_n.jpg?_nc_cat=105&ccb=1-7&_nc_ohc=JavstpIS8MoQ7kNvwFgJXiO&_nc_oc=AdoRedfjljEknlmJUNZLQEZ9A-H-JSVjhlzHrul_p-CqvA73oXJYUKeZNGU76wH5uy8&_nc_zt=1&_nc_ht=scontent-atl3-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=nJkVU7ikv_ngKgAnOyrsjg&_nc_tpa=Q5bMBQHUJLX7v4mkk2m7t806qGe_oWIwDvhcynriU9XW_AMJtvJq96iRQCZrtMRjHVaE6KHJQvmU&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af5qGQ_1CwPNOz2Z23eAYehItWrEiwBmWBEQUU_YapkJYg&oe=6A0E2236",
+    "thumbnail_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t45.1600-4/656778780_122241967940126722_7764413350850755767_n.jpg?_nc_cat=105&ccb=1-7&_nc_ohc=JavstpIS8MoQ7kNvwFVZ9AJ&_nc_oc=AdquOlvVVoDXYA-ZVKi5hau38PrBme1H4c8407QcQqCUTE1jFYwM7EyVoC-5TcAxmuI&_nc_zt=1&_nc_ht=scontent-ord5-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=2R0Dg1VgwxR_MbppDjS-sQ&_nc_tpa=Q5bMBQH727I5T-NVgZmW1Q0e53Ksmuq_83pgM6VFkFz8xBFwXiBdS-WFnHihtWjC-WFBul_hw5NH&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af7eCLuBJoP24WM95HwXYEX42ubuF984ALCzH0YaiN0l-Q&oe=6A0F73B6",
     "instagram_permalink": "https://www.instagram.com/p/DWW3mRzgHQv/",
     "instagram_actor_id": "",
     "source_instagram_media_id": "",
@@ -18018,8 +16368,8 @@
     "campaign_id": "120244861175730268",
     "campaign_name": "CVS Android_US_Apppurchase_260326",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-03-26T12:34:57-0500",
     "adset_end": "",
     "impressions": 134,
@@ -18034,7 +16384,7 @@
     "video_avg_watch": 0.0,
     "creative_id": "1910059216282716",
     "creative_name": "{{product.name}} 2026-03-26-f9208b0a6c4d869732728da54e5e2a22",
-    "thumbnail_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t45.1600-4/655884292_122241968264126722_7564104260780670292_n.jpg?_nc_cat=102&ccb=1-7&_nc_ohc=OaFqWXhABToQ7kNvwGEAH8H&_nc_oc=AdrCfNTjpXq6jmx3PU-beUA6j1PVwOqEt7FVDR5ZLPW73Jo1xkLlgR44unOIbaUG_yw&_nc_zt=1&_nc_ht=scontent-atl3-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=nJkVU7ikv_ngKgAnOyrsjg&_nc_tpa=Q5bMBQHGIzzGrbxT70MItqxkfXdRlDONpZYpjWYymNVz09tUE_L5TBVDMWPfM_JMRuqFF7czkDaa&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af6buODuSV80AVczWzoLYE1kSh0mG85M72FpcJVYpFj7Vg&oe=6A0E2732",
+    "thumbnail_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t45.1600-4/655884292_122241968264126722_7564104260780670292_n.jpg?_nc_cat=102&ccb=1-7&_nc_ohc=5u2Djork528Q7kNvwH3D-GW&_nc_oc=AdpxxwtmMFLIyDkG5IsiCPvEqm_FcUG3Xc-MlJLbFNAKVTRMUew5OII6nn0CmAYH_iU&_nc_zt=1&_nc_ht=scontent-ord5-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=2R0Dg1VgwxR_MbppDjS-sQ&_nc_tpa=Q5bMBQHbwg6KRAC7uRMt_NR1fmn_fTsBTWlfil2-17pcTbmcvHCHZIpq83kZfxlGhHlGJCXeos3P&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af55IEn9T7evYPRVb1nWL8jnYtj0GsO8oDfNT5fp8P1quQ&oe=6A0F78B2",
     "instagram_permalink": "https://www.instagram.com/p/DWW3m_EANqx/",
     "instagram_actor_id": "",
     "source_instagram_media_id": "",
@@ -18126,8 +16476,8 @@
     "campaign_id": "120244861175730268",
     "campaign_name": "CVS Android_US_Apppurchase_260326",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-03-26T12:34:57-0500",
     "adset_end": "",
     "impressions": 2,
@@ -18142,7 +16492,7 @@
     "video_avg_watch": 0.0,
     "creative_id": "26173615552280174",
     "creative_name": "{{product.name}} 2026-03-26-3d28f387e8ccc509f426dd89b1fb905e",
-    "thumbnail_url": "https://scontent-atl3-3.xx.fbcdn.net/v/t45.1600-4/656218340_122241968450126722_8760504047334614730_n.jpg?_nc_cat=109&ccb=1-7&_nc_ohc=ywMfgEWHYokQ7kNvwH3WrPa&_nc_oc=Adohayv6p9NjtONCDTlMni7LUmo0HZUZmIS02uSjbD_iCNB1x_6cUyZGEKlezzBLN2U&_nc_zt=1&_nc_ht=scontent-atl3-3.xx&edm=AOgd6ZUEAAAA&_nc_gid=nJkVU7ikv_ngKgAnOyrsjg&_nc_tpa=Q5bMBQGvWO48rEuwutdCNq33XL7srHEk1FYbQElwxMDsxFrrC7mtyeDSVKWhzwR8BWDm-sdpacJS&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af7oVn38RzwxwhPlCgaIfQpkLAu0Y6-oIxGxbhAejhLZHQ&oe=6A0E0423",
+    "thumbnail_url": "https://scontent-ord5-3.xx.fbcdn.net/v/t45.1600-4/656218340_122241968450126722_8760504047334614730_n.jpg?_nc_cat=109&ccb=1-7&_nc_ohc=va-mZptCfbEQ7kNvwF50fa1&_nc_oc=AdrMhDBvR6v6sncuHsDe1H3ZmcdUo3TbktYmXW6wFbVgwEDfCNqmvBmhY8SH86xYrBs&_nc_zt=1&_nc_ht=scontent-ord5-3.xx&edm=AOgd6ZUEAAAA&_nc_gid=2R0Dg1VgwxR_MbppDjS-sQ&_nc_tpa=Q5bMBQFpbq5MMx8b-ZyOfEuHMaT12hGgmKJSDgPBaDgKoAtOU59WNkrrhU234tnxXcB3xhAFv1b-&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af71c5dF8C8lKwaLl83pbbs0_DTqhyjxpvfQxmDSOg1esw&oe=6A0F55A3",
     "instagram_permalink": "https://www.instagram.com/p/DWW3nYuAHGy/",
     "instagram_actor_id": "",
     "source_instagram_media_id": "",
@@ -18234,8 +16584,8 @@
     "campaign_id": "120244861175730268",
     "campaign_name": "CVS Android_US_Apppurchase_260326",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-03-26T12:44:59-0500",
     "adset_end": "",
     "impressions": 1342,
@@ -18250,7 +16600,7 @@
     "video_avg_watch": 0.0,
     "creative_id": "2898664633801668",
     "creative_name": "{{product.name}} 2026-03-26-5fa5342a3df64a109f2d74d1ae02cde5",
-    "thumbnail_url": "https://scontent-atl3-3.xx.fbcdn.net/v/t45.1600-4/658195536_122241962822126722_6504143828272861880_n.jpg?_nc_cat=107&ccb=1-7&_nc_ohc=k4gHVutZ28UQ7kNvwHF_wTm&_nc_oc=AdokCjJVaIear3HLjeEvp_lzetRQRYviIeTwBCMKogp4kwm0L6mhBsEC6aZvddqW87g&_nc_zt=1&_nc_ht=scontent-atl3-3.xx&edm=AOgd6ZUEAAAA&_nc_gid=nJkVU7ikv_ngKgAnOyrsjg&_nc_tpa=Q5bMBQELOy_S7jWjTrtVSkO9R3CIG-eWq1qVZcL3fIlp89WNutyVB-uPWattALk63Th9fN67GUb9&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af7jLW3Qaiqn6L1FbYRYHf40_LB2eZjrXXAwcm3aG7Z0fg&oe=6A0E06C4",
+    "thumbnail_url": "https://scontent-ord5-3.xx.fbcdn.net/v/t45.1600-4/658195536_122241962822126722_6504143828272861880_n.jpg?_nc_cat=107&ccb=1-7&_nc_ohc=k4gHVutZ28UQ7kNvwExNNcQ&_nc_oc=AdoV3W8idxu4Tq08S4o01OizPQ1WwjmA0vylBNf4n3NWcIWnGgha12DkE9a2tphW6wQ&_nc_zt=1&_nc_ht=scontent-ord5-3.xx&edm=AOgd6ZUEAAAA&_nc_gid=2R0Dg1VgwxR_MbppDjS-sQ&_nc_tpa=Q5bMBQHkUXEKOTsVcGfa4mWwE0S0-eP0Mpj39RV4pgZeuhOATVccdlUZ4nHSRXVGzGFBA-VIx8BI&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af6q_4u0Gv-LNBsSQT28aRcuaKHuh2tSu-AW22SmduKUnw&oe=6A0F5844",
     "instagram_permalink": "https://www.instagram.com/p/DWW29kEgEIi/",
     "instagram_actor_id": "",
     "source_instagram_media_id": "",
@@ -18342,8 +16692,8 @@
     "campaign_id": "120244861175730268",
     "campaign_name": "CVS Android_US_Apppurchase_260326",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-03-26T12:44:59-0500",
     "adset_end": "",
     "impressions": 11288,
@@ -18358,7 +16708,7 @@
     "video_avg_watch": 0.0,
     "creative_id": "2143772869730380",
     "creative_name": "{{product.name}} 2026-03-26-efd8ac8e5d6ffbcca0b71f049a23f079",
-    "thumbnail_url": "https://scontent-atl3-3.xx.fbcdn.net/v/t45.1600-4/655081967_122241957404126722_3322256208631784256_n.jpg?_nc_cat=109&ccb=1-7&_nc_ohc=mzniQ7KLF6cQ7kNvwEaduPT&_nc_oc=Ado69VFWekv5WMWxwKQs8MILEF8bzRjwJnc4FJQgxRc892QN5_UD3dFyZfDpS7H0eZo&_nc_zt=1&_nc_ht=scontent-atl3-3.xx&edm=AOgd6ZUEAAAA&_nc_gid=nJkVU7ikv_ngKgAnOyrsjg&_nc_tpa=Q5bMBQFCkDPfNt0rBmK7jrqNYVRm1vFQOGR-kShKriQFHVU18Uk-3Qaz4lZmh9D6loiMT3RW3Esq&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af4N3WgkfrbMvXjNtjeEt1pMUNM4XxwpKXeHirc5Lmj_-A&oe=6A0E02A7",
+    "thumbnail_url": "https://scontent-ord5-3.xx.fbcdn.net/v/t45.1600-4/655081967_122241957404126722_3322256208631784256_n.jpg?_nc_cat=109&ccb=1-7&_nc_ohc=1EkOU3yi02kQ7kNvwF01xTZ&_nc_oc=AdpqQ65kGdSF8oXDeU4ICBOHh-gjHeUqe-ACuwV_fD6h2QfiCqOKHVW8h93QHrSTIDo&_nc_zt=1&_nc_ht=scontent-ord5-3.xx&edm=AOgd6ZUEAAAA&_nc_gid=2R0Dg1VgwxR_MbppDjS-sQ&_nc_tpa=Q5bMBQFfZclSpG0FDf8I13_N3FcMOc97kuCVrlv_GjtBuuCgRXqEeYOZQe_UknQZkzb33V_WQMoC&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af5XcVsSAPeKV_VkWCCSvLW0Om1E3YUPxDOemsMV2wrIeA&oe=6A0F8C67",
     "instagram_permalink": "https://www.instagram.com/p/DWW3jG9gHYN/",
     "instagram_actor_id": "",
     "source_instagram_media_id": "",
@@ -18450,8 +16800,8 @@
     "campaign_id": "120244861175730268",
     "campaign_name": "CVS Android_US_Apppurchase_260326",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-03-26T12:44:59-0500",
     "adset_end": "",
     "impressions": 1935,
@@ -18466,7 +16816,7 @@
     "video_avg_watch": 0.0,
     "creative_id": "976379391624881",
     "creative_name": "{{product.name}} 2026-03-26-4458f11a021fb43e0f10d5c8eff67812",
-    "thumbnail_url": "https://scontent-atl3-1.xx.fbcdn.net/v/t45.1600-4/660038812_122241961838126722_7313670219676155063_n.jpg?_nc_cat=105&ccb=1-7&_nc_ohc=EFJNqWouYtQQ7kNvwGtt42g&_nc_oc=AdoMZy7iddMe1mVxAGn3T734HfmKN9oAMdGKtvhOw3PEvsKj-MjYfHcT81n8E2JVVBY&_nc_zt=1&_nc_ht=scontent-atl3-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=nJkVU7ikv_ngKgAnOyrsjg&_nc_tpa=Q5bMBQGQqm4ZOjWNWGBu44uEoPQSfSMFEoepJwmWGQAySSHb4QOQgv4RugYcoKhb5s9LdN_4imtV&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af5UctaT0FY2L3Cn1WuEZ7ZPi1f_FSSusCdJ1pb1DvsVtA&oe=6A0E28A9",
+    "thumbnail_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t45.1600-4/660038812_122241961838126722_7313670219676155063_n.jpg?_nc_cat=105&ccb=1-7&_nc_ohc=H1igccz6T-kQ7kNvwHdFPMw&_nc_oc=AdoJVEvHFlplxKEhImaico0Z7K8TpatEwLoqU2uFGc-9p1SvRhUIJaRCeS14r-5M3Dw&_nc_zt=1&_nc_ht=scontent-ord5-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=2R0Dg1VgwxR_MbppDjS-sQ&_nc_tpa=Q5bMBQHrDWQU7WlhahRpWjXrRDonanlCZB4mlXYCMuzpBh3RiO_xPhopq2Hp5XxyFaMHsZAH8qFI&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af5s4npKTsxyX0FmpX7OCyPJXkOdx5XDgzcJpckWC6F8Pw&oe=6A0F7A29",
     "instagram_permalink": "https://www.instagram.com/p/DWW3j7ygMxB/",
     "instagram_actor_id": "",
     "source_instagram_media_id": "",
@@ -18558,8 +16908,8 @@
     "campaign_id": "120244861175730268",
     "campaign_name": "CVS Android_US_Apppurchase_260326",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-03-26T12:44:59-0500",
     "adset_end": "",
     "impressions": 11,
@@ -18574,7 +16924,7 @@
     "video_avg_watch": 0.0,
     "creative_id": "1423579599255956",
     "creative_name": "{{product.name}} 2026-03-26-747ac475cf4b744687dcf840fe070bbd",
-    "thumbnail_url": "https://scontent-atl3-3.xx.fbcdn.net/v/t45.1600-4/660739224_122241960398126722_3578823236707755938_n.jpg?_nc_cat=110&ccb=1-7&_nc_ohc=WvVATuxJ5AwQ7kNvwERC-qG&_nc_oc=Adq3Ot6FQP7-0AtmuaEIr90CKKVgB04P4t1_YD6IXU5HFwHYZ9zwUFB8_JARmy_A88c&_nc_zt=1&_nc_ht=scontent-atl3-3.xx&edm=AOgd6ZUEAAAA&_nc_gid=nJkVU7ikv_ngKgAnOyrsjg&_nc_tpa=Q5bMBQEsEIZo9vhoB4gEX0nF7bGV-Lh9A-NBJo56dgNscQ6AgAEWQOwO0IvasJmBCQ5pM-615cSm&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af71X0z7xI9pz4m8YxnkX94jCU1btWtDbRHS8t1XDFFjTQ&oe=6A0E0CAB",
+    "thumbnail_url": "https://scontent-ord5-3.xx.fbcdn.net/v/t45.1600-4/660739224_122241960398126722_3578823236707755938_n.jpg?_nc_cat=110&ccb=1-7&_nc_ohc=EELZAW77LEkQ7kNvwEENW5e&_nc_oc=Ado-zaDMQ9gDTD73clwfcIQQOfvjfpO0XLXSCBHmt0WCqi6lTCthSY1bo5CcDLwh3vU&_nc_zt=1&_nc_ht=scontent-ord5-3.xx&edm=AOgd6ZUEAAAA&_nc_gid=2R0Dg1VgwxR_MbppDjS-sQ&_nc_tpa=Q5bMBQFlW9CPhALehD4akUVs9Y2GWZiX6k9l30nd7eLaiGA_NaE91SKt5RqJ6bpqg1QVj4DUYQOy&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af77Efzr8elkw1p6rNigXiwMFiFVm3zEmJTeJvgd-ArBrg&oe=6A0F5E2B",
     "instagram_permalink": "https://www.instagram.com/p/DWW3kICAAbV/",
     "instagram_actor_id": "",
     "source_instagram_media_id": "",
@@ -18666,8 +17016,8 @@
     "campaign_id": "120244861175730268",
     "campaign_name": "CVS Android_US_Apppurchase_260326",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-03-26T12:05:32-0500",
     "adset_end": "",
     "impressions": 562,
@@ -18682,7 +17032,7 @@
     "video_avg_watch": 0.0,
     "creative_id": "4503997609882616",
     "creative_name": "{{product.name}} 2026-03-26-7a07d144ab75213e59b0fc6f769a207d",
-    "thumbnail_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t45.1600-4/655884292_122241968264126722_7564104260780670292_n.jpg?_nc_cat=102&ccb=1-7&_nc_ohc=OaFqWXhABToQ7kNvwGEAH8H&_nc_oc=AdrCfNTjpXq6jmx3PU-beUA6j1PVwOqEt7FVDR5ZLPW73Jo1xkLlgR44unOIbaUG_yw&_nc_zt=1&_nc_ht=scontent-atl3-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=nJkVU7ikv_ngKgAnOyrsjg&_nc_tpa=Q5bMBQF0nZL_8KJMEgHDdD13mI_NjPWUTFEs01U1fU80_NnCU-dioA4tbt3zW2Lk39wTPnUw3a3K&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af6Bb5UIh-G-qEwg_1-UKL3GS-c0kBjBDXJdPxaQd8UccA&oe=6A0E2732",
+    "thumbnail_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t45.1600-4/655884292_122241968264126722_7564104260780670292_n.jpg?_nc_cat=102&ccb=1-7&_nc_ohc=5u2Djork528Q7kNvwH3D-GW&_nc_oc=AdpxxwtmMFLIyDkG5IsiCPvEqm_FcUG3Xc-MlJLbFNAKVTRMUew5OII6nn0CmAYH_iU&_nc_zt=1&_nc_ht=scontent-ord5-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=2R0Dg1VgwxR_MbppDjS-sQ&_nc_tpa=Q5bMBQFeEOHybH_wEYS64Ow6dK4-cUXYTtl9yG1_-X1yK_Rp-xxX5gFg3JkMWFgZk_9RWhKRreAA&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af70ulmbAYIoNEA-gUokvT1eqWihFUuwxaoXesiya1htqg&oe=6A0F78B2",
     "instagram_permalink": "https://www.instagram.com/p/DWW5QuCAB5y/",
     "instagram_actor_id": "",
     "source_instagram_media_id": "",
@@ -18774,8 +17124,8 @@
     "campaign_id": "120245101472500268",
     "campaign_name": "CVS Android_US_Appdownload_010426",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-03-30T12:26:24-0500",
     "adset_end": "",
     "impressions": 2880,
@@ -18790,7 +17140,7 @@
     "video_avg_watch": 0.0,
     "creative_id": "1959129314808551",
     "creative_name": "{{product.name}} 2026-03-26-26c4079ecc5081aa1fd8cc03e36904e9",
-    "thumbnail_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t45.1600-4/658317105_122241965078126722_6594093080411093198_n.jpg?_nc_cat=102&ccb=1-7&_nc_ohc=sN78M4u45voQ7kNvwHIVj-G&_nc_oc=AdoGKtx9dQZcWj0k6YzKW2q8P1yg4sup0JQkkx_1N9W6zwWzAP3thWLDG3m3pNbHrPg&_nc_zt=1&_nc_ht=scontent-atl3-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=nJkVU7ikv_ngKgAnOyrsjg&_nc_tpa=Q5bMBQEcW-hLv2FOdOeygEhseLUyqmm9lNleXHxcLLZ__qkZ6qGS7PRkls-cU4Jc7tv9Q86n4nVC&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af4SAGNwif1nswJIxmKnshSBDPqW3mON8uN_kJRuHTbTbA&oe=6A0E2BAD",
+    "thumbnail_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t45.1600-4/658317105_122241965078126722_6594093080411093198_n.jpg?_nc_cat=102&ccb=1-7&_nc_ohc=sN78M4u45voQ7kNvwFRW8k5&_nc_oc=Adobw55JVMLS7RLB8hie28ktEqE9_flIQk1IIAvF0uBBxfrUtTPV8XcQvc-4ETG2SQs&_nc_zt=1&_nc_ht=scontent-ord5-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=2R0Dg1VgwxR_MbppDjS-sQ&_nc_tpa=Q5bMBQF16fj-k83B6r8rIlT4Ovjf44Fmxq2s3yjXUV2HiCZeXVkmO4I1pSyvwejEhMRMj3sQwoyQ&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af57bnEuAlfqevpnwu1ZlxWgSPFmpTAeNs5vr0HCDTkV5Q&oe=6A0F7D2D",
     "instagram_permalink": "https://www.instagram.com/p/DWWxkPHgMsS/",
     "instagram_actor_id": "",
     "source_instagram_media_id": "",
@@ -18882,8 +17232,8 @@
     "campaign_id": "120245101472500268",
     "campaign_name": "CVS Android_US_Appdownload_010426",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-03-30T12:26:24-0500",
     "adset_end": "",
     "impressions": 11313,
@@ -18898,7 +17248,7 @@
     "video_avg_watch": 0.0,
     "creative_id": "925588923723335",
     "creative_name": "{{product.name}} 2026-03-26-42ecac51962faf25310178dba938f5df",
-    "thumbnail_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t45.1600-4/655690510_122241966356126722_3977005498480140087_n.jpg?_nc_cat=100&ccb=1-7&_nc_ohc=Q-4dV2BEnpoQ7kNvwEeebHT&_nc_oc=AdqxBKClfVLdokoQW5FGTfIqzboMsr8lhRJTvDAadimWb7LqKFVgsXnVgxl6iTqFi5k&_nc_zt=1&_nc_ht=scontent-atl3-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=nJkVU7ikv_ngKgAnOyrsjg&_nc_tpa=Q5bMBQHaoezheLdDsTVoE_N7-pB63MzyAtpltBdqeHpCDbuLlbzepfhZmjHkgm2i86C1pirUlY26&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af5KQqLjiDd8huPy_1k1eZ4Y8ddWV1gdLeYngX1WguZxvQ&oe=6A0E319B",
+    "thumbnail_url": "https://scontent-ord5-3.xx.fbcdn.net/v/t45.1600-4/655690510_122241966356126722_3977005498480140087_n.jpg?_nc_cat=100&ccb=1-7&_nc_ohc=Q-4dV2BEnpoQ7kNvwEx8f39&_nc_oc=AdrSrl5EnChOwFvhRDbhI6l6jTlQA6uZzA5gtfHtZ74EY3sHkrDKbXdNIRT16FTI4e0&_nc_zt=1&_nc_ht=scontent-ord5-3.xx&edm=AOgd6ZUEAAAA&_nc_gid=2R0Dg1VgwxR_MbppDjS-sQ&_nc_tpa=Q5bMBQG9sfk--aIRwI33Mw4WLt1rA-F6-FAck0plLQh-hisKaBQB9nQjFBdFnlCeJF7A8xSgkK7C&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af6iTPawatj1C04_viwoNEun4HpCVBk1l0tf5XmDBCk65Q&oe=6A0F831B",
     "instagram_permalink": "https://www.instagram.com/p/DWW0ypVAAVc/",
     "instagram_actor_id": "",
     "source_instagram_media_id": "",
@@ -18990,8 +17340,8 @@
     "campaign_id": "120245101472500268",
     "campaign_name": "CVS Android_US_Appdownload_010426",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-03-30T12:26:24-0500",
     "adset_end": "",
     "impressions": 759,
@@ -19006,7 +17356,7 @@
     "video_avg_watch": 0.0,
     "creative_id": "832003799917952",
     "creative_name": "{{product.name}} 2026-03-26-29185444b81ac622754948dbd60a37e6",
-    "thumbnail_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t45.1600-4/656043937_122241964700126722_6741910752655871284_n.jpg?_nc_cat=100&ccb=1-7&_nc_ohc=D52qR1sWAPcQ7kNvwHrs5gs&_nc_oc=Adrevj4dWM0bTxqjcuqbTlBJ1I8UZ0k9MRtluetezvu-11SUz5RnKggYOP1D2WYNDvI&_nc_zt=1&_nc_ht=scontent-atl3-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=nJkVU7ikv_ngKgAnOyrsjg&_nc_tpa=Q5bMBQGL1NsxojJn8DZMdaIvl1SdjIq6pLUjfMoCcFuXf2__EVwWgyRziq_16YzWa_gjujvzM1qv&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af7zjiMe8nlcYoWcj_ikPGF33SIlYBEgM2zdS_OFsnWhKA&oe=6A0E2A08",
+    "thumbnail_url": "https://scontent-ord5-3.xx.fbcdn.net/v/t45.1600-4/656043937_122241964700126722_6741910752655871284_n.jpg?_nc_cat=100&ccb=1-7&_nc_ohc=D52qR1sWAPcQ7kNvwHYt2Y1&_nc_oc=AdqZeQtVyMcitEvcD8dkIGRRvaJMwR729hQnbKjwQvZZcpgjb841HaL3hcIfInHIlZQ&_nc_zt=1&_nc_ht=scontent-ord5-3.xx&edm=AOgd6ZUEAAAA&_nc_gid=2R0Dg1VgwxR_MbppDjS-sQ&_nc_tpa=Q5bMBQEQRKAeWO4tsfSb2Gr_sj89_5NzjRXYiT6V1hSPC2RLIDqmB2hLvEkZN7Hmerb57O4T35TJ&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af7vSkHZeja7XrTGUv8MhzKuGJ2AjrAWsG_HOxEGuf4wJg&oe=6A0F7B88",
     "instagram_permalink": "https://www.instagram.com/p/DWWzhm9AOYd/",
     "instagram_actor_id": "",
     "source_instagram_media_id": "",
@@ -19098,8 +17448,8 @@
     "campaign_id": "120245101472500268",
     "campaign_name": "CVS Android_US_Appdownload_010426",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-03-30T12:26:24-0500",
     "adset_end": "",
     "impressions": 9082,
@@ -19114,7 +17464,7 @@
     "video_avg_watch": 0.0,
     "creative_id": "2368640430286805",
     "creative_name": "{{product.name}} 2026-03-26-7381d41915f4b9ff2b5cb4d9360f5bf8",
-    "thumbnail_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t45.1600-4/659278785_122241964922126722_6383024134686739200_n.jpg?_nc_cat=102&ccb=1-7&_nc_ohc=60R8Pspfah4Q7kNvwEbLgSx&_nc_oc=AdowLzeAYxYwlrsEhNKB3rah-uYhlwkmrCJsZKeSh62ZUSpPiksd3p9mpk8NHElyyVk&_nc_zt=1&_nc_ht=scontent-atl3-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=nJkVU7ikv_ngKgAnOyrsjg&_nc_tpa=Q5bMBQEsWJ03Jt3qziGPPk2DNWI3h6IUyXQex0SnoVkDY90z36s8K5De6C0Y2uPRWP5a_U-eq7um&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af4FC58R78D8dHNBTv1490Ap0fc3pmrAoZFyPDCpzilHuQ&oe=6A0E3252",
+    "thumbnail_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t45.1600-4/659278785_122241964922126722_6383024134686739200_n.jpg?_nc_cat=102&ccb=1-7&_nc_ohc=60R8Pspfah4Q7kNvwHE7pry&_nc_oc=AdrLXWnyONYma-jUpYNr9KLKmYDvQzplxR3bbSMxAXaEjUuGHN0dY3cmr7eDKGpjk4g&_nc_zt=1&_nc_ht=scontent-ord5-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=2R0Dg1VgwxR_MbppDjS-sQ&_nc_tpa=Q5bMBQGD0Wpvif81m47I9wlrmN4Xc5q4f3gQ5QVR0ZkvHxsaOU15KokkGuVL0o8w-NJGDAgSswqG&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af4rBsWCq9s8kdnnnRqTQgIyuob3VBEUf0FrauZRA2Y9sA&oe=6A0F83D2",
     "instagram_permalink": "https://www.instagram.com/p/DWWzb1sgO5F/",
     "instagram_actor_id": "",
     "source_instagram_media_id": "",
@@ -19206,8 +17556,8 @@
     "campaign_id": "120245101472500268",
     "campaign_name": "CVS Android_US_Appdownload_010426",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-03-30T12:26:27-0500",
     "adset_end": "",
     "impressions": 16,
@@ -19222,7 +17572,7 @@
     "video_avg_watch": 0.0,
     "creative_id": "1472746467766821",
     "creative_name": "{{product.name}} 2026-03-26-76476759036de133e0aae1f62da71c48",
-    "thumbnail_url": "https://scontent-atl3-3.xx.fbcdn.net/v/t45.1600-4/659304613_122241968906126722_1180605763039456751_n.jpg?_nc_cat=111&ccb=1-7&_nc_ohc=5RYQd8CZT3UQ7kNvwH6eOkZ&_nc_oc=AdoYeYYNrs4VAlO_oxzVRDDWqQG-UGWWMk9Qc9ePj8vSLpi95jF6uJmZHle8G7J93Vw&_nc_zt=1&_nc_ht=scontent-atl3-3.xx&edm=AOgd6ZUEAAAA&_nc_gid=nJkVU7ikv_ngKgAnOyrsjg&_nc_tpa=Q5bMBQGkv4_V6PnE6AiXMHgIIQ-YXXCkDuCeJ1CG576cFYvxfoUl2KIyGj4Ujjr28jRzd1D6vYRE&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af69cgBZw16eASQCjX0gecWgzRfhS3NudDsHZ0j5vxn6kQ&oe=6A0E3366",
+    "thumbnail_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t45.1600-4/659304613_122241968906126722_1180605763039456751_n.jpg?_nc_cat=111&ccb=1-7&_nc_ohc=WEwssiO7II4Q7kNvwH_yDUc&_nc_oc=AdqG6uLx_fBwE0PEUUYDHhgfMlstKebqqggkPSzt1Xp9lLBQWPCOXLiOA6NpE0VuCsk&_nc_zt=1&_nc_ht=scontent-ord5-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=2R0Dg1VgwxR_MbppDjS-sQ&_nc_tpa=Q5bMBQHvRP13ZLksh5F_xMP0Vf3ag930piUvdLFrEQWgQjPFqTqVF4dfpusQNqKxjfGG5K1ZlEYv&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af4DlZPMhl1h2VYYM2zO07YHnvmaWf092pAq3I4Ut_iVYw&oe=6A0F84E6",
     "instagram_permalink": "https://www.instagram.com/p/DWWzMrkgA1t/",
     "instagram_actor_id": "",
     "source_instagram_media_id": "",
@@ -19314,8 +17664,8 @@
     "campaign_id": "120245101472500268",
     "campaign_name": "CVS Android_US_Appdownload_010426",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-03-30T12:26:27-0500",
     "adset_end": "",
     "impressions": 7,
@@ -19330,7 +17680,7 @@
     "video_avg_watch": 0.0,
     "creative_id": "26173615552280174",
     "creative_name": "{{product.name}} 2026-03-26-3d28f387e8ccc509f426dd89b1fb905e",
-    "thumbnail_url": "https://scontent-atl3-3.xx.fbcdn.net/v/t45.1600-4/656218340_122241968450126722_8760504047334614730_n.jpg?_nc_cat=109&ccb=1-7&_nc_ohc=ywMfgEWHYokQ7kNvwH3WrPa&_nc_oc=Adohayv6p9NjtONCDTlMni7LUmo0HZUZmIS02uSjbD_iCNB1x_6cUyZGEKlezzBLN2U&_nc_zt=1&_nc_ht=scontent-atl3-3.xx&edm=AOgd6ZUEAAAA&_nc_gid=nJkVU7ikv_ngKgAnOyrsjg&_nc_tpa=Q5bMBQGvWO48rEuwutdCNq33XL7srHEk1FYbQElwxMDsxFrrC7mtyeDSVKWhzwR8BWDm-sdpacJS&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af7oVn38RzwxwhPlCgaIfQpkLAu0Y6-oIxGxbhAejhLZHQ&oe=6A0E0423",
+    "thumbnail_url": "https://scontent-ord5-3.xx.fbcdn.net/v/t45.1600-4/656218340_122241968450126722_8760504047334614730_n.jpg?_nc_cat=109&ccb=1-7&_nc_ohc=va-mZptCfbEQ7kNvwF50fa1&_nc_oc=AdrMhDBvR6v6sncuHsDe1H3ZmcdUo3TbktYmXW6wFbVgwEDfCNqmvBmhY8SH86xYrBs&_nc_zt=1&_nc_ht=scontent-ord5-3.xx&edm=AOgd6ZUEAAAA&_nc_gid=2R0Dg1VgwxR_MbppDjS-sQ&_nc_tpa=Q5bMBQFpbq5MMx8b-ZyOfEuHMaT12hGgmKJSDgPBaDgKoAtOU59WNkrrhU234tnxXcB3xhAFv1b-&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af71c5dF8C8lKwaLl83pbbs0_DTqhyjxpvfQxmDSOg1esw&oe=6A0F55A3",
     "instagram_permalink": "https://www.instagram.com/p/DWhFV9wgAPU/",
     "instagram_actor_id": "",
     "source_instagram_media_id": "",
@@ -19422,8 +17772,8 @@
     "campaign_id": "120245101472500268",
     "campaign_name": "CVS Android_US_Appdownload_010426",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-03-30T12:26:27-0500",
     "adset_end": "",
     "impressions": 23,
@@ -19438,7 +17788,7 @@
     "video_avg_watch": 0.0,
     "creative_id": "26509348025421487",
     "creative_name": "{{product.name}} 2026-03-26-eef533604497ba25048df515c16d7c0b",
-    "thumbnail_url": "https://scontent-atl3-1.xx.fbcdn.net/v/t45.1600-4/656778780_122241967940126722_7764413350850755767_n.jpg?_nc_cat=105&ccb=1-7&_nc_ohc=JavstpIS8MoQ7kNvwFgJXiO&_nc_oc=AdoRedfjljEknlmJUNZLQEZ9A-H-JSVjhlzHrul_p-CqvA73oXJYUKeZNGU76wH5uy8&_nc_zt=1&_nc_ht=scontent-atl3-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=nJkVU7ikv_ngKgAnOyrsjg&_nc_tpa=Q5bMBQHUJLX7v4mkk2m7t806qGe_oWIwDvhcynriU9XW_AMJtvJq96iRQCZrtMRjHVaE6KHJQvmU&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af5qGQ_1CwPNOz2Z23eAYehItWrEiwBmWBEQUU_YapkJYg&oe=6A0E2236",
+    "thumbnail_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t45.1600-4/656778780_122241967940126722_7764413350850755767_n.jpg?_nc_cat=105&ccb=1-7&_nc_ohc=JavstpIS8MoQ7kNvwFVZ9AJ&_nc_oc=AdquOlvVVoDXYA-ZVKi5hau38PrBme1H4c8407QcQqCUTE1jFYwM7EyVoC-5TcAxmuI&_nc_zt=1&_nc_ht=scontent-ord5-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=2R0Dg1VgwxR_MbppDjS-sQ&_nc_tpa=Q5bMBQH727I5T-NVgZmW1Q0e53Ksmuq_83pgM6VFkFz8xBFwXiBdS-WFnHihtWjC-WFBul_hw5NH&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af7eCLuBJoP24WM95HwXYEX42ubuF984ALCzH0YaiN0l-Q&oe=6A0F73B6",
     "instagram_permalink": "https://www.instagram.com/p/DWhFWbzgOiw/",
     "instagram_actor_id": "",
     "source_instagram_media_id": "",
@@ -19530,8 +17880,8 @@
     "campaign_id": "120245101472500268",
     "campaign_name": "CVS Android_US_Appdownload_010426",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-03-30T12:26:27-0500",
     "adset_end": "",
     "impressions": 7,
@@ -19546,7 +17896,7 @@
     "video_avg_watch": 0.0,
     "creative_id": "5537078963156264",
     "creative_name": "{{product.name}} 2026-03-26-b0f24b2b9ce50b7c8350722a64cf1b48",
-    "thumbnail_url": "https://scontent-atl3-3.xx.fbcdn.net/v/t45.1600-4/660685592_122241968792126722_1659173620018061843_n.jpg?_nc_cat=107&ccb=1-7&_nc_ohc=8jClxOfl49QQ7kNvwEmcSbR&_nc_oc=AdqdcBC9t7TJCa5H8Z6v86XfJm164A-8J0h0MNm062XrfG5lW2UE_vze2cG46FK4NQw&_nc_zt=1&_nc_ht=scontent-atl3-3.xx&edm=AOgd6ZUEAAAA&_nc_gid=nJkVU7ikv_ngKgAnOyrsjg&_nc_tpa=Q5bMBQFanuA7ER0sc2lLEIx726YrL0brsLPmirgq_lc9BHCfgJX4eoXBo1bBoPxr3qO9Sf8yNtBO&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af5OublPuTkjjrPk2CYiDLdD-cmoaypSQ_UxtdghnI8sSQ&oe=6A0E27BB",
+    "thumbnail_url": "https://scontent-ord5-3.xx.fbcdn.net/v/t45.1600-4/660685592_122241968792126722_1659173620018061843_n.jpg?_nc_cat=107&ccb=1-7&_nc_ohc=LrN1fgEYlW0Q7kNvwEyf7De&_nc_oc=AdqNGAXUhdU4JvJ1isG56f4Mjf5Tfx1nxQW410vu0GKqnzJl326KMe97QG9rRneWKm4&_nc_zt=1&_nc_ht=scontent-ord5-3.xx&edm=AOgd6ZUEAAAA&_nc_gid=2R0Dg1VgwxR_MbppDjS-sQ&_nc_tpa=Q5bMBQFpxldJMOLxto9kig9sxNA7FDM0o4OwhH-zyaQTQ4ndanwvWbmCZfZ37KeZ98Sl-6k67p_M&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af4yhjgjAGCcHZtYavobYCJqkhtZSLr6uT2iqV85uITQ1g&oe=6A0F793B",
     "instagram_permalink": "https://www.instagram.com/p/DWhFWmlAO67/",
     "instagram_actor_id": "",
     "source_instagram_media_id": "",
@@ -19638,8 +17988,8 @@
     "campaign_id": "120245101472500268",
     "campaign_name": "CVS Android_US_Appdownload_010426",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-03-30T12:26:24-0500",
     "adset_end": "",
     "impressions": 21,
@@ -19654,7 +18004,7 @@
     "video_avg_watch": 0.0,
     "creative_id": "1423579599255956",
     "creative_name": "{{product.name}} 2026-03-26-747ac475cf4b744687dcf840fe070bbd",
-    "thumbnail_url": "https://scontent-atl3-3.xx.fbcdn.net/v/t45.1600-4/660739224_122241960398126722_3578823236707755938_n.jpg?_nc_cat=110&ccb=1-7&_nc_ohc=WvVATuxJ5AwQ7kNvwERC-qG&_nc_oc=Adq3Ot6FQP7-0AtmuaEIr90CKKVgB04P4t1_YD6IXU5HFwHYZ9zwUFB8_JARmy_A88c&_nc_zt=1&_nc_ht=scontent-atl3-3.xx&edm=AOgd6ZUEAAAA&_nc_gid=nJkVU7ikv_ngKgAnOyrsjg&_nc_tpa=Q5bMBQEsEIZo9vhoB4gEX0nF7bGV-Lh9A-NBJo56dgNscQ6AgAEWQOwO0IvasJmBCQ5pM-615cSm&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af71X0z7xI9pz4m8YxnkX94jCU1btWtDbRHS8t1XDFFjTQ&oe=6A0E0CAB",
+    "thumbnail_url": "https://scontent-ord5-3.xx.fbcdn.net/v/t45.1600-4/660739224_122241960398126722_3578823236707755938_n.jpg?_nc_cat=110&ccb=1-7&_nc_ohc=EELZAW77LEkQ7kNvwEENW5e&_nc_oc=Ado-zaDMQ9gDTD73clwfcIQQOfvjfpO0XLXSCBHmt0WCqi6lTCthSY1bo5CcDLwh3vU&_nc_zt=1&_nc_ht=scontent-ord5-3.xx&edm=AOgd6ZUEAAAA&_nc_gid=2R0Dg1VgwxR_MbppDjS-sQ&_nc_tpa=Q5bMBQFlW9CPhALehD4akUVs9Y2GWZiX6k9l30nd7eLaiGA_NaE91SKt5RqJ6bpqg1QVj4DUYQOy&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af77Efzr8elkw1p6rNigXiwMFiFVm3zEmJTeJvgd-ArBrg&oe=6A0F5E2B",
     "instagram_permalink": "https://www.instagram.com/p/DWW2tHnAOzZ/",
     "instagram_actor_id": "",
     "source_instagram_media_id": "",
@@ -19746,8 +18096,8 @@
     "campaign_id": "120245101472500268",
     "campaign_name": "CVS Android_US_Appdownload_010426",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-03-30T12:26:24-0500",
     "adset_end": "",
     "impressions": 1151,
@@ -19762,7 +18112,7 @@
     "video_avg_watch": 0.0,
     "creative_id": "2898664633801668",
     "creative_name": "{{product.name}} 2026-03-26-5fa5342a3df64a109f2d74d1ae02cde5",
-    "thumbnail_url": "https://scontent-atl3-3.xx.fbcdn.net/v/t45.1600-4/658195536_122241962822126722_6504143828272861880_n.jpg?_nc_cat=107&ccb=1-7&_nc_ohc=k4gHVutZ28UQ7kNvwHF_wTm&_nc_oc=AdokCjJVaIear3HLjeEvp_lzetRQRYviIeTwBCMKogp4kwm0L6mhBsEC6aZvddqW87g&_nc_zt=1&_nc_ht=scontent-atl3-3.xx&edm=AOgd6ZUEAAAA&_nc_gid=nJkVU7ikv_ngKgAnOyrsjg&_nc_tpa=Q5bMBQELOy_S7jWjTrtVSkO9R3CIG-eWq1qVZcL3fIlp89WNutyVB-uPWattALk63Th9fN67GUb9&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af7jLW3Qaiqn6L1FbYRYHf40_LB2eZjrXXAwcm3aG7Z0fg&oe=6A0E06C4",
+    "thumbnail_url": "https://scontent-ord5-3.xx.fbcdn.net/v/t45.1600-4/658195536_122241962822126722_6504143828272861880_n.jpg?_nc_cat=107&ccb=1-7&_nc_ohc=k4gHVutZ28UQ7kNvwExNNcQ&_nc_oc=AdoV3W8idxu4Tq08S4o01OizPQ1WwjmA0vylBNf4n3NWcIWnGgha12DkE9a2tphW6wQ&_nc_zt=1&_nc_ht=scontent-ord5-3.xx&edm=AOgd6ZUEAAAA&_nc_gid=2R0Dg1VgwxR_MbppDjS-sQ&_nc_tpa=Q5bMBQHkUXEKOTsVcGfa4mWwE0S0-eP0Mpj39RV4pgZeuhOATVccdlUZ4nHSRXVGzGFBA-VIx8BI&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af6q_4u0Gv-LNBsSQT28aRcuaKHuh2tSu-AW22SmduKUnw&oe=6A0F5844",
     "instagram_permalink": "https://www.instagram.com/p/DWW0jvDgG06/",
     "instagram_actor_id": "",
     "source_instagram_media_id": "",
@@ -19854,8 +18204,8 @@
     "campaign_id": "120245101472500268",
     "campaign_name": "CVS Android_US_Appdownload_010426",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-03-30T12:26:24-0500",
     "adset_end": "",
     "impressions": 11455,
@@ -19870,7 +18220,7 @@
     "video_avg_watch": 0.0,
     "creative_id": "976379391624881",
     "creative_name": "{{product.name}} 2026-03-26-4458f11a021fb43e0f10d5c8eff67812",
-    "thumbnail_url": "https://scontent-atl3-1.xx.fbcdn.net/v/t45.1600-4/660038812_122241961838126722_7313670219676155063_n.jpg?_nc_cat=105&ccb=1-7&_nc_ohc=EFJNqWouYtQQ7kNvwGtt42g&_nc_oc=AdoMZy7iddMe1mVxAGn3T734HfmKN9oAMdGKtvhOw3PEvsKj-MjYfHcT81n8E2JVVBY&_nc_zt=1&_nc_ht=scontent-atl3-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=nJkVU7ikv_ngKgAnOyrsjg&_nc_tpa=Q5bMBQGQqm4ZOjWNWGBu44uEoPQSfSMFEoepJwmWGQAySSHb4QOQgv4RugYcoKhb5s9LdN_4imtV&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af5UctaT0FY2L3Cn1WuEZ7ZPi1f_FSSusCdJ1pb1DvsVtA&oe=6A0E28A9",
+    "thumbnail_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t45.1600-4/660038812_122241961838126722_7313670219676155063_n.jpg?_nc_cat=105&ccb=1-7&_nc_ohc=H1igccz6T-kQ7kNvwHdFPMw&_nc_oc=AdoJVEvHFlplxKEhImaico0Z7K8TpatEwLoqU2uFGc-9p1SvRhUIJaRCeS14r-5M3Dw&_nc_zt=1&_nc_ht=scontent-ord5-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=2R0Dg1VgwxR_MbppDjS-sQ&_nc_tpa=Q5bMBQHrDWQU7WlhahRpWjXrRDonanlCZB4mlXYCMuzpBh3RiO_xPhopq2Hp5XxyFaMHsZAH8qFI&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af5s4npKTsxyX0FmpX7OCyPJXkOdx5XDgzcJpckWC6F8Pw&oe=6A0F7A29",
     "instagram_permalink": "https://www.instagram.com/p/DWW2pJVAGgw/",
     "instagram_actor_id": "",
     "source_instagram_media_id": "",
@@ -19962,8 +18312,8 @@
     "campaign_id": "120245101472500268",
     "campaign_name": "CVS Android_US_Appdownload_010426",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-03-30T12:26:24-0500",
     "adset_end": "",
     "impressions": 891,
@@ -19978,7 +18328,7 @@
     "video_avg_watch": 0.0,
     "creative_id": "2143772869730380",
     "creative_name": "{{product.name}} 2026-03-26-efd8ac8e5d6ffbcca0b71f049a23f079",
-    "thumbnail_url": "https://scontent-atl3-3.xx.fbcdn.net/v/t45.1600-4/655081967_122241957404126722_3322256208631784256_n.jpg?_nc_cat=109&ccb=1-7&_nc_ohc=mzniQ7KLF6cQ7kNvwEaduPT&_nc_oc=Ado69VFWekv5WMWxwKQs8MILEF8bzRjwJnc4FJQgxRc892QN5_UD3dFyZfDpS7H0eZo&_nc_zt=1&_nc_ht=scontent-atl3-3.xx&edm=AOgd6ZUEAAAA&_nc_gid=nJkVU7ikv_ngKgAnOyrsjg&_nc_tpa=Q5bMBQFCkDPfNt0rBmK7jrqNYVRm1vFQOGR-kShKriQFHVU18Uk-3Qaz4lZmh9D6loiMT3RW3Esq&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af4N3WgkfrbMvXjNtjeEt1pMUNM4XxwpKXeHirc5Lmj_-A&oe=6A0E02A7",
+    "thumbnail_url": "https://scontent-ord5-3.xx.fbcdn.net/v/t45.1600-4/655081967_122241957404126722_3322256208631784256_n.jpg?_nc_cat=109&ccb=1-7&_nc_ohc=1EkOU3yi02kQ7kNvwF01xTZ&_nc_oc=AdpqQ65kGdSF8oXDeU4ICBOHh-gjHeUqe-ACuwV_fD6h2QfiCqOKHVW8h93QHrSTIDo&_nc_zt=1&_nc_ht=scontent-ord5-3.xx&edm=AOgd6ZUEAAAA&_nc_gid=2R0Dg1VgwxR_MbppDjS-sQ&_nc_tpa=Q5bMBQFfZclSpG0FDf8I13_N3FcMOc97kuCVrlv_GjtBuuCgRXqEeYOZQe_UknQZkzb33V_WQMoC&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af5XcVsSAPeKV_VkWCCSvLW0Om1E3YUPxDOemsMV2wrIeA&oe=6A0F8C67",
     "instagram_permalink": "https://www.instagram.com/p/DWW0nBygG4X/",
     "instagram_actor_id": "",
     "source_instagram_media_id": "",
@@ -20070,8 +18420,8 @@
     "campaign_id": "120245101472500268",
     "campaign_name": "CVS Android_US_Appdownload_010426",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-03-30T12:26:24-0500",
     "adset_end": "",
     "impressions": 159,
@@ -20086,7 +18436,7 @@
     "video_avg_watch": 0.0,
     "creative_id": "4503997609882616",
     "creative_name": "{{product.name}} 2026-03-26-7a07d144ab75213e59b0fc6f769a207d",
-    "thumbnail_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t45.1600-4/655884292_122241968264126722_7564104260780670292_n.jpg?_nc_cat=102&ccb=1-7&_nc_ohc=OaFqWXhABToQ7kNvwGEAH8H&_nc_oc=AdrCfNTjpXq6jmx3PU-beUA6j1PVwOqEt7FVDR5ZLPW73Jo1xkLlgR44unOIbaUG_yw&_nc_zt=1&_nc_ht=scontent-atl3-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=nJkVU7ikv_ngKgAnOyrsjg&_nc_tpa=Q5bMBQF0nZL_8KJMEgHDdD13mI_NjPWUTFEs01U1fU80_NnCU-dioA4tbt3zW2Lk39wTPnUw3a3K&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af6Bb5UIh-G-qEwg_1-UKL3GS-c0kBjBDXJdPxaQd8UccA&oe=6A0E2732",
+    "thumbnail_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t45.1600-4/655884292_122241968264126722_7564104260780670292_n.jpg?_nc_cat=102&ccb=1-7&_nc_ohc=5u2Djork528Q7kNvwH3D-GW&_nc_oc=AdpxxwtmMFLIyDkG5IsiCPvEqm_FcUG3Xc-MlJLbFNAKVTRMUew5OII6nn0CmAYH_iU&_nc_zt=1&_nc_ht=scontent-ord5-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=2R0Dg1VgwxR_MbppDjS-sQ&_nc_tpa=Q5bMBQFeEOHybH_wEYS64Ow6dK4-cUXYTtl9yG1_-X1yK_Rp-xxX5gFg3JkMWFgZk_9RWhKRreAA&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af70ulmbAYIoNEA-gUokvT1eqWihFUuwxaoXesiya1htqg&oe=6A0F78B2",
     "instagram_permalink": "https://www.instagram.com/p/DWW5QuCAB5y/",
     "instagram_actor_id": "",
     "source_instagram_media_id": "",
@@ -20178,8 +18528,8 @@
     "campaign_id": "120245101472500268",
     "campaign_name": "CVS Android_US_Appdownload_010426",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-03-30T12:26:27-0500",
     "adset_end": "",
     "impressions": 1726,
@@ -20194,7 +18544,7 @@
     "video_avg_watch": 0.0,
     "creative_id": "1910059216282716",
     "creative_name": "{{product.name}} 2026-03-26-f9208b0a6c4d869732728da54e5e2a22",
-    "thumbnail_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t45.1600-4/655884292_122241968264126722_7564104260780670292_n.jpg?_nc_cat=102&ccb=1-7&_nc_ohc=OaFqWXhABToQ7kNvwGEAH8H&_nc_oc=AdrCfNTjpXq6jmx3PU-beUA6j1PVwOqEt7FVDR5ZLPW73Jo1xkLlgR44unOIbaUG_yw&_nc_zt=1&_nc_ht=scontent-atl3-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=nJkVU7ikv_ngKgAnOyrsjg&_nc_tpa=Q5bMBQHGIzzGrbxT70MItqxkfXdRlDONpZYpjWYymNVz09tUE_L5TBVDMWPfM_JMRuqFF7czkDaa&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af6buODuSV80AVczWzoLYE1kSh0mG85M72FpcJVYpFj7Vg&oe=6A0E2732",
+    "thumbnail_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t45.1600-4/655884292_122241968264126722_7564104260780670292_n.jpg?_nc_cat=102&ccb=1-7&_nc_ohc=5u2Djork528Q7kNvwH3D-GW&_nc_oc=AdpxxwtmMFLIyDkG5IsiCPvEqm_FcUG3Xc-MlJLbFNAKVTRMUew5OII6nn0CmAYH_iU&_nc_zt=1&_nc_ht=scontent-ord5-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=2R0Dg1VgwxR_MbppDjS-sQ&_nc_tpa=Q5bMBQHbwg6KRAC7uRMt_NR1fmn_fTsBTWlfil2-17pcTbmcvHCHZIpq83kZfxlGhHlGJCXeos3P&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_Af55IEn9T7evYPRVb1nWL8jnYtj0GsO8oDfNT5fp8P1quQ&oe=6A0F78B2",
     "instagram_permalink": "https://www.instagram.com/p/DWhFV_8gKzH/",
     "instagram_actor_id": "",
     "source_instagram_media_id": "",
@@ -20286,8 +18636,8 @@
     "campaign_id": "120245101472500268",
     "campaign_name": "CVS Android_US_Appdownload_010426",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-03-30T12:26:24-0500",
     "adset_end": "",
     "impressions": 6070,
@@ -20302,7 +18652,7 @@
     "video_avg_watch": 1.0,
     "creative_id": "4430856773905746",
     "creative_name": "{{product.name}} 2026-04-01-cf30a0dc27c45bc11b531d51312a52ee",
-    "thumbnail_url": "https://scontent-atl3-3.xx.fbcdn.net/v/t15.5256-10/663393840_1594714555121151_5069395646134698158_n.jpg?_nc_cat=107&ccb=1-7&_nc_ohc=8sOEdPZe2wQQ7kNvwGaeYzf&_nc_oc=AdrzDzhaDNSbwUXDNaHLII_at9mfVfgEWi9a93owzOmaynciV4C-tOJh9--ezvkYb6A&_nc_zt=23&_nc_ht=scontent-atl3-3.xx&edm=AOgd6ZUEAAAA&_nc_gid=nJkVU7ikv_ngKgAnOyrsjg&_nc_tpa=Q5bMBQFemvRmEQVUWeI876dwo5BjSaiTPuI7A7t1TJM-R0M7MUtWNMUpwM2ly3UPFMoPok4UEig4&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=b696e2&_nc_sid=58080a&oh=00_Af548KV8GI0A32H42jlUbiFiujJc_mVbvMKL9qscY1_Ahw&oe=6A0E29A9",
+    "thumbnail_url": "https://scontent-ord5-3.xx.fbcdn.net/v/t15.5256-10/663393840_1594714555121151_5069395646134698158_n.jpg?_nc_cat=107&ccb=1-7&_nc_ohc=8sOEdPZe2wQQ7kNvwFOwBHJ&_nc_oc=AdqbnIwlXipWXKdvfJ4LAUFaVn2MzCLznNF3cKJO9gsGCYXIBVIl1M1U7ZB21TSqjU0&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&edm=AOgd6ZUEAAAA&_nc_gid=2R0Dg1VgwxR_MbppDjS-sQ&_nc_tpa=Q5bMBQH5iR5bQ_p8oDccV5DpRNCF98WTxS56psW8D149e-zO6hfuPW-CO92taTqO5z8AAPySeSEh&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=b696e2&_nc_sid=58080a&oh=00_Af7uC-V7XUTTgzSRdfHzLUOe0KHe6cxk4bjvc-EnhYl3lg&oe=6A0F7B29",
     "instagram_permalink": "https://www.instagram.com/p/DWl4Bm_gJuY/",
     "instagram_actor_id": "",
     "source_instagram_media_id": "",
@@ -20394,8 +18744,8 @@
     "campaign_id": "120245101472500268",
     "campaign_name": "CVS Android_US_Appdownload_010426",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-03-30T12:26:24-0500",
     "adset_end": "",
     "impressions": 535,
@@ -20410,7 +18760,7 @@
     "video_avg_watch": 2.0,
     "creative_id": "789610923873195",
     "creative_name": "{{product.name}} 2026-04-01-f9ee873f0084f61a49b314c43bfa8aca",
-    "thumbnail_url": "https://scontent-atl3-1.xx.fbcdn.net/v/t15.5256-10/661865180_1616332212973771_1490924894721171198_n.jpg?_nc_cat=105&ccb=1-7&_nc_ohc=znj8DAoAyMsQ7kNvwEVRi1h&_nc_oc=AdqCa8nu6bc5cgJWbAYpfLJY5364qlu4JsuzuZTtizBav97D9GnTELoQnWP7MQv5CTc&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=AOgd6ZUEAAAA&_nc_gid=nJkVU7ikv_ngKgAnOyrsjg&_nc_tpa=Q5bMBQFbFyKBkXHkBSUmXecb_N2ixGhgKkgpLES3xg0bSbWiJ_Z0eBJUUxp9BA8HGV02Cjivmf9W&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=b696e2&_nc_sid=58080a&oh=00_Af4vj-MntEKVAcy2s-W6YYfghCVMKraJqqBIiQ4caH24lg&oe=6A0E33BE",
+    "thumbnail_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/661865180_1616332212973771_1490924894721171198_n.jpg?_nc_cat=105&ccb=1-7&_nc_ohc=vcovHvLmOxMQ7kNvwEfZr07&_nc_oc=AdpDULCMV8Yafn-9PUSFnqJ3LNJbYCtOH65vxxwFZKq1VAfNRDSFkyCbXOzxeDlCj-4&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=2R0Dg1VgwxR_MbppDjS-sQ&_nc_tpa=Q5bMBQEkYyDENO0WrAMiacqzGnYRhnadeEiwepe1mrMTROMuLxs3sT5PqvWpKptEcYLY0v_LQ0Qm&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=b696e2&_nc_sid=58080a&oh=00_Af6i3kw6roBEMs2tEjtOr11UHlXw5mMhnNJ4SlVM4tduhQ&oe=6A0F853E",
     "instagram_permalink": "https://www.instagram.com/p/DWl4YShAMNV/",
     "instagram_actor_id": "",
     "source_instagram_media_id": "",
@@ -20502,8 +18852,8 @@
     "campaign_id": "120245101472500268",
     "campaign_name": "CVS Android_US_Appdownload_010426",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-03-30T12:26:24-0500",
     "adset_end": "",
     "impressions": 51306,
@@ -20518,7 +18868,7 @@
     "video_avg_watch": 2.0,
     "creative_id": "2049826929298671",
     "creative_name": "{{product.name}} 2026-04-01-f580ff85cfb806f8e5bbee57da25ab03",
-    "thumbnail_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t15.5256-10/660725864_798796542846092_5548428112721665209_n.jpg?_nc_cat=104&ccb=1-7&_nc_ohc=0YOXGc-JoC8Q7kNvwH6Q7Sy&_nc_oc=AdqaNSBf5K_wwTP_lwrTMrZum_j3nPiLzNlnQo5Kh3YL_5klUsKKRy70qEDPmC6ksv0&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=nJkVU7ikv_ngKgAnOyrsjg&_nc_tpa=Q5bMBQGFeYZSi9XCEaNxEtobpjosUdvs7ZCJ81nSSCp5F6C258fceUBh22cF2TitsTlLESQDX1MR&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=b696e2&_nc_sid=58080a&oh=00_Af5rGRPtSSwRwqjghk-wQmm56ObB-A1i7Ae_DldxrsLuvg&oe=6A0E0C57",
+    "thumbnail_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/660725864_798796542846092_5548428112721665209_n.jpg?_nc_cat=104&ccb=1-7&_nc_ohc=0YOXGc-JoC8Q7kNvwFYQyo0&_nc_oc=AdrIQZGfR5jgaSiLNLMEl91HXVvT96KpK3kHXvRAoTcDKaIxEf_ibvEHslu8FntV6dc&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=2R0Dg1VgwxR_MbppDjS-sQ&_nc_tpa=Q5bMBQGbCbD-JaK0VcFk64ZlOsddhSJ-JqNfFVcEYmNsOgvh7ASV9tb31c6emC49Wr-qDG7q_WAZ&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=b696e2&_nc_sid=58080a&oh=00_Af7qk5FaJ90Lp8kaHFin5FmlcBrmlHil4AEjOuqFEfmR6w&oe=6A0F5DD7",
     "instagram_permalink": "https://www.instagram.com/p/DWl4MoLgEnr/",
     "instagram_actor_id": "",
     "source_instagram_media_id": "",
@@ -20610,8 +18960,8 @@
     "campaign_id": "120245101472500268",
     "campaign_name": "CVS Android_US_Appdownload_010426",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-03-30T12:26:24-0500",
     "adset_end": "",
     "impressions": 15380,
@@ -20626,7 +18976,7 @@
     "video_avg_watch": 1.0,
     "creative_id": "965049936179555",
     "creative_name": "{{product.name}} 2026-04-01-aa008bb30b301037374c1ef033ba75c7",
-    "thumbnail_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t15.5256-10/663249836_783134917897872_4131644542200670115_n.jpg?_nc_cat=100&ccb=1-7&_nc_ohc=EuD1BeNWn70Q7kNvwHIAjqG&_nc_oc=AdpS_nFmdRETRA-p3SpedWMk6NvV3bxOpz-_qKwbHR9kR4LlATCOh14FN-SED_5NAZM&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=nJkVU7ikv_ngKgAnOyrsjg&_nc_tpa=Q5bMBQH9Bs2Ce55-aa3AZ7mukQMBrY-DmIsz12tZnXGEAUiWOnKFH6lhqi7aVaesknPd_TU7csUY&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=b696e2&_nc_sid=58080a&oh=00_Af7vHPVFC7ZfHhJa-ElMvOM7eCM4GXPZyAWvfHUBaZxWhg&oe=6A0E2D5D",
+    "thumbnail_url": "https://scontent-ord5-3.xx.fbcdn.net/v/t15.5256-10/663249836_783134917897872_4131644542200670115_n.jpg?_nc_cat=100&ccb=1-7&_nc_ohc=6I9d9AN8A_gQ7kNvwErBZ1u&_nc_oc=Adp4b_QUfgCCAkhYTpAfTuqju0JrMMEl7pU4T6qYmTLluwqzbq5Hjvi9IkD0fQN2Fsg&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&edm=AOgd6ZUEAAAA&_nc_gid=2R0Dg1VgwxR_MbppDjS-sQ&_nc_tpa=Q5bMBQFEBxxzRtv0FHphXWbe6IDHjec6S2kOMjweWg6nWfTwo-TKlEmzP2o1c_sOWw0mtoOiv-CL&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=b696e2&_nc_sid=58080a&oh=00_Af7RmOLQg3iuDjTGElIJolDRjYYT_BnI3El2GBiksEp7ZA&oe=6A0F7EDD",
     "instagram_permalink": "https://www.instagram.com/p/DWl46rKgLMr/",
     "instagram_actor_id": "",
     "source_instagram_media_id": "",
@@ -20718,8 +19068,8 @@
     "campaign_id": "120245101472500268",
     "campaign_name": "CVS Android_US_Appdownload_010426",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-03-30T12:26:24-0500",
     "adset_end": "",
     "impressions": 4257,
@@ -20734,7 +19084,7 @@
     "video_avg_watch": 1.0,
     "creative_id": "1519070503077480",
     "creative_name": "{{product.name}} 2026-04-01-4cd7b32fb4e67fdd766d68c5fbbcb6a2",
-    "thumbnail_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t15.5256-10/661587688_743145728767077_2867174154113901221_n.jpg?_nc_cat=102&ccb=1-7&_nc_ohc=3iKgVlY6nq4Q7kNvwHbKJ-M&_nc_oc=AdroMJTSBL_C0Gf5P9IZBICmBCS-Z597w1IfEN0gqKuKZKENyIryifBL7SrBJZMUIFI&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=nJkVU7ikv_ngKgAnOyrsjg&_nc_tpa=Q5bMBQGY_M0yMjDopJjltpdmqRc3MOY1PBwBIZaxPF1oAay69DFJ2HqUX6WAhqigLXgVG_aeL6Va&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=b696e2&_nc_sid=58080a&oh=00_Af4TOBz53RSnw2FIOUdSl24fYo3dIGkiQPE7v_HpWRHqqw&oe=6A0E1E77",
+    "thumbnail_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/661587688_743145728767077_2867174154113901221_n.jpg?_nc_cat=102&ccb=1-7&_nc_ohc=3iKgVlY6nq4Q7kNvwGqaEJs&_nc_oc=AdpzytqdGjCKa6Lm0a2-c8gG9e0PJYFIwV7JfHtQyA92TrQ7k4vYLVSpjPpPGoRcC7s&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=2R0Dg1VgwxR_MbppDjS-sQ&_nc_tpa=Q5bMBQEGpcgc7YA2wJa2BLgzfs7KZV4pi1iwL0NS4yXmkCmZZPnqtwfqVW8dWYBz_XWmKVGCdMhj&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=b696e2&_nc_sid=58080a&oh=00_Af6XgwrZ0XDsdMYaLzW8KjzHj-_jv9oGmeQUpad2LD40WA&oe=6A0F6FF7",
     "instagram_permalink": "https://www.instagram.com/p/DWl4309APdL/",
     "instagram_actor_id": "",
     "source_instagram_media_id": "",
@@ -20826,8 +19176,8 @@
     "campaign_id": "120245101472500268",
     "campaign_name": "CVS Android_US_Appdownload_010426",
     "status": "PAUSED",
-    "date_start": "2026-02-15",
-    "date_stop": "2026-05-15",
+    "date_start": "2026-02-16",
+    "date_stop": "2026-05-16",
     "adset_start": "2026-03-30T12:26:24-0500",
     "adset_end": "",
     "impressions": 42075,
@@ -20842,7 +19192,7 @@
     "video_avg_watch": 2.0,
     "creative_id": "3910731299232070",
     "creative_name": "{{product.name}} 2026-04-01-b83ed830b9743df5b4bf6e757346e40e",
-    "thumbnail_url": "https://scontent-atl3-3.xx.fbcdn.net/v/t15.5256-10/662024823_1728910805184345_2827761374760345926_n.jpg?_nc_cat=111&ccb=1-7&_nc_ohc=JDjXbHEyySoQ7kNvwGC8sOo&_nc_oc=Adq-_w-pTbTqzO50bmO9F3n0PxWJRsqCSl_coPlA60-OJClOgBsnmd5REsngTvtqmDc&_nc_zt=23&_nc_ht=scontent-atl3-3.xx&edm=AOgd6ZUEAAAA&_nc_gid=nJkVU7ikv_ngKgAnOyrsjg&_nc_tpa=Q5bMBQFSXNJGixjQqIMb12UNz5W3dcmu9lh-wxNeHwv0haDuq1JiiRAsPiJtw7tW4BEkHRq-os7k&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=b696e2&_nc_sid=58080a&oh=00_Af6E3muc5Bu6YQOmfMdat4LzhzCokQ2mfILaurRk--mC4w&oe=6A0E30D8",
+    "thumbnail_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/662024823_1728910805184345_2827761374760345926_n.jpg?_nc_cat=111&ccb=1-7&_nc_ohc=PrnHzq8Ik6EQ7kNvwFarglj&_nc_oc=AdqOXrsamH5-9_S9swqn6HtnQx6YhQqY49pQ_0zbIICE65ZT9zb6XfdgOPUVGnPVX3w&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AOgd6ZUEAAAA&_nc_gid=2R0Dg1VgwxR_MbppDjS-sQ&_nc_tpa=Q5bMBQFVcoj0OGbgStVmva38t2rnh7KnzUXDwHjfvSHQBHNaEdw2oKXeLKHYMKZPIQR2cVVEZh9W&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=b696e2&_nc_sid=58080a&oh=00_Af6s176SX9O-vthYhPPGQhvYQovLt-i6BeXCkcgjYXmRcg&oe=6A0F8258",
     "instagram_permalink": "https://www.instagram.com/p/DWl53uBgB6F/",
     "instagram_actor_id": "",
     "source_instagram_media_id": "",
